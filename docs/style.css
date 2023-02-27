@@ -1,0 +1,14 @@
+section.title img{
+    display: flex;
+    flex: 1;
+    margin: auto;
+    max-width:800px;
+    width: 80%;
+}
+body{
+    background-color: black;
+}
+section.title h1 {
+    color: white;
+    text-align: center;
+}
