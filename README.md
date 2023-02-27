@@ -1,5 +1,5 @@
 # Dark-Souls-Lore-ChatGPT
-Game 210 Spring 2023 Semester Project
+DIGIT 210 Spring 2023 Semester Project
 
 **Stephen Catledge, Tyler Akam**
 
