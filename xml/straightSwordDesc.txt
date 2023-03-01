@@ -1,0 +1,47 @@
+Type: Straight Sword
+Name: Shortsword
+Disc: This small straight sword is widely used, to an extent only matched by the longsword. An accessible sword which inflicts consistent regular damage and high slash damage, making it applicable to a variety of situations.
+
+Type: Straight Sword
+Name: Long Sword
+Disc: Widely-used standard straight sword, only matched in ubiquity by the shortsword. An accessible sword which inflicts consistent regular damage and high slash damage, making it applicable to a variety of situations.
+
+Type: Straight Sword
+Name: Broad Sword
+Disc: The wide blade of this straight sword emphasizes slicing and has no thrust attack. The horizontal sweeping motion makes this sword effective against multiple enemies.
+
+Type: Straight Sword
+Name: Broken Straight Sword
+Disc: Half of the blade of this straight sword is broken off. Only the completely Hollowed would even consider using this as a weapon.
+
+Type: Straight Sword
+Name: Balder Side Sword
+Disc: The knights of the ancient kingdom of Balder wielded these rock-solid, long swords which are excellent for thrust attacks. Balder was the home of Knight King Rendal, but the kingdom was reduced to ruins after a widespread outbreak of Undead.
+
+Type: Straight Sword
+Name: Sunlight Straight Sword
+Disc: This standard longsword, belonging to Solaire of Astora, is of high quality, is well- forged, and has been kept in good repair. Easy-to-use and dependable, but unlikely to live up to its grandiose name.
+
+Type: Straight Sword
+Name: Barbed Straight Sword
+Disc: The choice weapon of the infamous Darkwraith Kirk, also known as the Knight of Thorns for the gnarly spikes on his favorite weapon. This frightful sword deals only thrust attacks, and causes heavy bleeding.
+
+Type: Straight Sword
+Name: Silver Knight Straight Sword
+Disc: The silver knights of Anor Londo guard the city using this beautifully slender weapon. Its chain attacks, in which the wielder takes great advancing steps and makes use of his bodyweight, are deadly even in single hits.
+
+Type: Straight Sword
+Name: Astora's Straight Sword
+Disc: Straight sword of an unknown knight, likely one of Astora's superiors. High-quality weapon with a powerful blessing.
+
+Type: Straight Sword
+Name: Dark Sword
+Disc: The sword of the knights of the Four Kings of New Londo. Its blade is wide and thick, and it is wielded in an unusual manner. When the Four Kings were seduced by evil, their knights became Darkwraiths, servants of the Dark who wielded these darkswords.
+
+Type: Straight Sword
+Name: Drake Sword
+Disc: This sword, one of the rare dragon weapons, is formed by a drake's tail. Drakes are seen as undeveloped imitators of the dragons, but in they are likely their distant kin. The sword is imbued with a mystical power, to be released when held with both hands.
+
+Type: Straight Sword
+Name: Straight Sword Hilt
+Disc: The hilt of this lost sword was found discarded in the Undead Asylum. Only slightly better than one's bare hands, and not recommended for extensive use. Be certain to find a replacement quickly.
