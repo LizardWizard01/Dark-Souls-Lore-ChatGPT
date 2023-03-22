@@ -6,11 +6,22 @@ import openai
 
 config = ConfigParser()
 config.read('config.cfg')
-openai.api_key_path = 'config.cfg'
+# openai.api_key_path = 'config.cfg'
 API_KEY = config.get('openai', 'api_key')
-#Authorization: "Tyler Akam" API_KEY
 openai.api_key = API_KEY
-openai.Model.list()
+print(openai.Model.list())
+
+# list models
+models = openai.Model.list()
+
+# print the first model's id
+print(models.data[0].id)
+
+# create a completion
+completion = openai.Completion.create(model="ada", prompt="Hello world")
+
+# print the completion
+print(completion.choices[0].text)
 
 completion = openai.ChatCompletion.create(
   model="gpt-3.5-turbo",
