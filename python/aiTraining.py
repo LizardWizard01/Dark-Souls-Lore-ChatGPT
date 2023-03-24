@@ -1,5 +1,5 @@
 from configparser import ConfigParser
-
+# read about input and output formats and import spreadsheet data
 import config
 import os
 import openai
@@ -26,7 +26,7 @@ print(completion.choices[0].text)
 completion = openai.ChatCompletion.create(
   model="gpt-3.5-turbo",
   messages=[
-    {"role": "user", "content": "Hello!"}
+    {"role": "user", "content": "Generate items that don't currently exist in Dark Souls, but format it based on the following example of items:"}
   ]
 )
 
