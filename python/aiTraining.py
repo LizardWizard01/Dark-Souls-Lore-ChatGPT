@@ -26,7 +26,8 @@ print(completion.choices[0].text)
 completion = openai.ChatCompletion.create(
   model="gpt-3.5-turbo",
   messages=[
-    {"role": "user", "content": "Generate items that don't currently exist in Dark Souls, but format it based on the following example of items:"}
+    {"role": "system", "content": "You are an assistant that generates new items that could function within the dark souls lore, but is entirely fictional and is not actually in the game"},
+    {"role": "user", "content": "Could you generate an armor set for me?"}
   ]
 )
 

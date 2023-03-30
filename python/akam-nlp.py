@@ -26,9 +26,18 @@ def readTextFiles(filepath):
     # print(tokens)
     listEntities = entitycollector(tokens)
     print(listEntities)
+    # return listEntities
+    print(len(listEntities))
     # cardinal_freq = Counter(listCardinals)
     # topTen = cardinal_freq.most_common(10)
     # print(topTen)
+    file = open('itemsOutput.txt', 'w')
+    for entity in listEntities:
+        print("YELL")
+        print(entity)
+        file.write(entity)
+        file.write('\n')
+    file.close()
 
 
 
@@ -37,9 +46,11 @@ def entitycollector(tokens):
     for entity in tokens.ents:
         # if entity.label_ == "CARDINAL":
         print(entity.text, entity.label_, spacy.explain(entity.label_))
+        # Attribute error 'dict' object has no attribute 'append'
+
         entities.append(entity.text)
     return entities
-
+    print(entities)
 
 # for file in os.listdir(CollPath):
 #     if file.endswith(".txt"):
@@ -82,8 +93,6 @@ readTextFiles(souls)
 #     if len(sentence.text) == maxVal:
 #         print('The longest sentence is: ' + sentence.text + ' :' + str(maxVal) + 'characters')
 
-lines = [print(entity.text, entity.label_, spacy.explain(entity.label_))]
-with open('itemsOutput.txt', 'w') as f:
-    for line in lines:
-        f.write(line)
-        f.write('\n')
+
+
+

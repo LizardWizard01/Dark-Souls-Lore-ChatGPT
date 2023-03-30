@@ -1,1 +1,1853 @@
-
+ItemType	Name
+the Knights of Catarina
+the Knights of Catarina
+the Knights of Catarina
+the Knights of Catarina
+Paladin Helm
+Leeroy
+Paladin
+Catacombs
+the Way of White
+first
+Grant
+Sanctus
+Leeroy
+first
+the Way of White
+Paladin Armor	"Armor of Leeroy
+Paladin
+Catacombs
+the Way of White
+first
+Grant
+Sanctus
+Leeroy
+first
+the Way of White
+Paladin Gauntlets
+Gauntlets of
+Leeroy
+Paladin
+Catacombs
+the Way of White
+first
+Grant
+Sanctus
+Leeroy
+first
+the Way of White
+Leggings of Leeroy
+Paladin
+Catacombs
+the Way of White
+first
+Grant
+Sanctus
+Leeroy
+first
+the Way of White
+Mask of the Darkwraiths
+New Londo
+Darkwraith
+Armor of the Darkwraiths
+New Londo
+Lifedrain
+Gauntlets of the Darkwraiths
+New Londo
+Lifedrain
+Armour	Dark Leggings
+Leggings of the Darkwraiths
+New Londo
+Lifedrain
+Hood
+Armour	Brigand Gauntlets	Gauntlets
+Eastern
+Eastern
+Eastern
+Armour	Shadow Leggings
+Eastern
+Armour	Black Iron Helm
+Helm of Black Iron Tarkus
+Tarkus
+Armour	Black Iron Armor
+Armor of Black Iron Tarkus
+Tarkus
+Armour	Black Iron Gauntlets
+Gauntlets of Black Iron Tarkus
+Tarkus
+Armour	Black Iron Leggings
+Leggings of Black Iron Tarkus
+Tarkus
+Smough
+Anor Londo
+Armour	Smough's
+Anor Londo
+Armour	Smough's
+Gauntlets of Smough
+Anor Londo
+Armour	Smough's
+Leggings of Smough
+Anor Londo
+Helm of the Channelers
+Seath the Scaleless
+six
+two
+Armour	Robe
+Robe of the Channelers
+Seath the Scaleless
+Gauntlets of the Channelers
+Seath the Scaleless
+Channelers
+Seath the Scaleless
+Helm of Lautrec
+Fina
+Armor of Lautrec the Embraced
+Fina
+Gauntlets of Lautrec the Embraced
+Fina
+Armour	Leggings of Favor
+Leggings of Lautrec
+Fina
+Armour	Helm
+Zena
+Domhnall
+two
+Armour	Armor of the Glorious
+Zena
+Domhnall
+Zena
+Domhnall
+Armour	Boots of the Explorer
+Zena
+Domhnall
+Armour	Stone Helm
+the Stone Knight
+the Darkroot Garden
+The Stone Knight
+Armour	Stone Armor
+the Stone Knight
+the Darkroot Garden
+The Stone Knight
+Armour	Stone Gauntlets
+the Stone Knight
+the Darkroot Garden
+The Stone Knight
+Armour	Stone Leggings
+the Stone Knight
+the Darkroot Garden
+The Stone Knight
+Helm
+Crystalline Armor	"Armor
+Gauntlets
+Armour	Mask of the Sealer
+Mask of the sorcerers
+New Londo
+Darkwraiths
+Four
+two
+three
+New Londo
+New Londo
+Darkwraiths
+Four
+New Londo
+Darkwraiths
+Four
+New Londo
+Darkwraiths
+Four
+Armour	Mask of
+Velka
+the Goddess of Sin
+Armour	Black Cleric Robe	"Robe
+Velka
+the Goddess of Sin
+Velka
+Armour	Black Manchette
+Manchette
+Velka
+the Goddess of Sin
+Velka
+Armour	Black Tights	"Tights
+Velka
+the Goddess of Sin
+Velka
+Armour	Iron Helm
+Solaire
+Armour	Armor of the Sun	"Armor of Solaire
+Sun
+Solaire
+Solaire
+Armour	Iron Bracelet
+Solaire
+Armour	Iron Leggings
+Leggings of Solaire
+Solaire
+Armour	Chain Helm
+Knights
+Knights
+Gauntlets
+One
+Armour	Chain Leggings
+Knights
+Helm
+the Way of White
+the Way of White
+Gauntlets
+the Way of White
+Armour	Cleric Leggings
+the Way of White
+Armour	Helm of Thorns
+Knight of Thorns
+Darkwraiths
+Kirk
+Armour	Armor of Thorns
+Armor of Kirk
+Knight of Thorns
+Darkwraiths
+Kirk
+Gauntlets of Kirk
+Knight of Thorns
+Darkwraiths
+Kirk
+Armour	Leggings of Thorns
+Leggings of Kirk
+Knight of Thorns
+Darkwraiths
+Kirk
+Gauntlets
+Vinheim Dragon School
+Cloak
+Vinheim Dragon School
+Gauntlets
+Vinheim Dragon School
+Vinheim Dragon School
+Hood
+the Great Swamp
+Robe
+the Great Swamp
+Manchette
+the Great Swamp
+Armour	Heavy Boots	"Boots
+Armour	Pharis's Hat
+Pharis
+Pharis
+Hawkeye Gough
+one
+Four
+Gwyn
+Armour	Leather Gloves	Gloves
+Armour	Leather Boots	Boots
+Armour	Painting Guardian Hood	"
+Hood
+Anor Londo
+the Great Paintings of Ariamis for ages
+Armour	Painting Guardian Robe
+Robe
+Anor Londo
+the Great Paintings of Ariamis for ages
+Armour	Painting Guardian Gloves
+Anor Londo
+the Great Paintings of Ariamis for ages
+Armour	Painting Guardian
+Waistcloth	"
+Waistcloth
+Anor Londo
+the Great Paintings of Ariamis for ages
+Ornstein
+Anor Londo
+Ornstein
+the Four Knights
+Armor of the dragonslayer
+Ornstein
+Anor Londo
+Ornstein
+the Four Knights
+Gauntlets of the dragonslayer
+Ornstein
+Anor Londo
+Ornstein
+the Four Knights
+Leggings of the dragonslayer
+Ornstein
+Anor Londo
+Ornstein
+the Four Knights
+Eastern
+East
+Eastern Land
+East
+Eastern
+East
+Eastern
+East
+the Xanthous King Jeremiah
+the Xanthous King Jeremiah
+the Xanthous King Jeremiah
+Xanthous Waistcloth
+the Xanthous King Jeremiah
+Armour	Thief Mask
+Armour	Black Leather Armor
+Armour	Black Leather Gloves
+Armour	Black Leather Boots
+Thorolund
+Lordran
+Robe
+the Way of White
+Armour	Traveling Gloves
+the Way of White
+the Black Knights
+Gwyn
+Fire
+Armor of the Black Knights
+Gwyn
+Fire
+Gauntlets of the Black Knights
+Gwyn
+Fire
+Leggings of the Black Knights
+Gwyn
+Dusk, Princess of Oolacile
+Oolacile
+Oolacile
+Oolacile
+Armour	Witch Hat
+Beatrice
+Dragon School
+Beatrice
+Abyss
+Cloak of the rogue witch
+Beatrice
+Dragon School
+Beatrice
+Abyss
+Armour	Witch Gloves
+Beatrice
+Dragon School
+Beatrice
+Abyss
+Skirt of the rogue witch
+Beatrice
+Dragon School
+Beatrice
+Abyss
+Helm
+Astora
+the Undead Asylum
+Hollow
+Astora
+the Undead Asylum
+Hollow
+Astora
+the Undead Asylum
+Hollow
+Astora
+the Undead Asylum
+Hollow
+Hood of an
+Armour	Wanderer Coat
+one
+Armour	Wanderer Boots	Boots of an
+Armour	Mage Smith Hat
+Vinheim Dragon School
+Armour	Mage Smith Coat
+Vinheim Dragon School
+Gauntlets
+Vinheim Dragon School
+Armour	Mage Smith Boots	"Boots
+Vinheim Dragon School
+Armour	Big Hat
+Gigantic
+Logan
+Hat.\
+Logan
+Robe
+Big Hat Logan
+his apprentice days
+Dragon School
+Logan
+Armour	Traveling Gloves	Gloves
+Big Hat Logan
+Armour	Traveling Boots	Boots
+Big Hat Logan
+Armour	Dingy Hood
+Worn by the Fire Keeper at Firelink Shrine
+the years
+Armour	Dingy Robe
+Worn by the Fire Keeper at Firelink Shrine
+the years
+Armour	Dingy Gloves
+Worn by the Fire Keeper at Firelink Shrine
+the years
+Worn by the Fire Keeper at Firelink Shrine
+Armour	Maiden Gloves
+White
+the Silver Knights
+Anor Londo
+Gwyn
+Fire
+two
+The Silver Knights
+Armor of the Silver Knights
+Anor Londo
+Gwyn
+Fire
+two
+The Silver Knights
+Gauntlets of the Silver Knights
+Anor Londo
+Gwyn
+Fire
+two
+The Silver Knights
+Leggings of the Silver Knights
+Anor Londo
+Gwyn
+Fire
+two
+The Silver Knights
+Armour	Havel's Helm	"Helm
+Havel
+Havel
+Armour	Havel's Armor
+Havel
+Havel
+Armour	Havel's
+Gauntlets
+Havel
+Havel
+Armour	Havel's Leggings
+Havel
+Havel
+Helm of the Darkmoon Knightess
+Fire Keeper
+Anor Londo
+Darkmoon
+Armor of the Darkmoon Knightess
+Fire Keeper
+Anor Londo
+Darkmoon
+Gauntlets of the Darkmoon Knightess
+Fire Keeper
+Anor Londo
+Darkmoon
+Armour	Brass Leggings
+Leggings of the Darkmoon Knightess
+Fire Keeper
+Anor Londo
+Darkmoon
+Worn
+Quelana
+Izalith
+Daughter of Chaos
+Worn
+Quelana
+Izalith
+Daughter of Chaos
+Worn
+Quelana
+Izalith
+Daughter of Chaos
+Worn
+Quelana
+Izalith
+one
+the Daughters of Chaos
+Head of the Iron Golem
+Sen's Fortress
+Anor Londo
+Armour	Golem Armor
+Sen's Fortress
+Anor Londo
+Sen's Fortress
+Anor Londo
+Armour	Golem Leggings
+Legs of the Iron Golem
+Sen's Fortress
+Anor Londo
+Helm
+Armour	Soldier's Gloves	Soldier's Gloves
+Waistcloth	Waistcloth
+Armour	Steel Helm
+Hollow
+Armour	Steel Armor
+Armor of the Knights of Berenike
+Hollow
+Armour	Steel Gauntlets
+Gauntlets of the Knights of Berenike
+Hollow
+Armour	Steel Leggings
+Leggings of the Knights of Berenike
+Hollow
+Armour	Thief's Gloves	Thief's Gloves
+Armour	Hollow Thief's Tights	Tights
+Armour	Balder Helm
+Helm
+Balder
+Balder
+Armour	Balder Armor
+Balder
+Balder
+Gauntlets
+Balder
+Balder
+Armour	Balder Leggings
+Balder
+Balder
+Helm
+Hollow
+Hollow
+Waistcloth	Waistcloth
+Hollow
+Anor Londo
+Armor of the giant sentinels
+Anor Londo
+Gauntlets of the
+Anor Londo
+Armour	Giant Leggings
+Leggings of the giant sentinels
+Anor Londo
+Anor Londo
+Darkmoon
+Gwyndolin
+Robe of the Dark Sun Gwyndolin
+Anor Londo
+Gwyndolin
+Moonlight Gloves	"Gloves of the Dark Sun Gwyndolin
+Anor Londo
+Gwyndolin
+Anor Londo
+Gwyndolin
+Crown of Gwyn
+First
+Gwyn
+Armour	Robe
+Robe of Gwyn
+First
+Gwyn
+Armour	Bracelet of the
+Gwyn
+First
+Gwyn
+Armour	Anklet of
+Gwyn
+First
+Gwyn
+Two
+Catacombs
+Vamos
+Armour	Mask
+One
+three
+Pinwheel
+Gravelord
+Catacombs
+Armour	Mask of the Mother
+One
+three
+Pinwheel
+Gravelord
+Catacombs
+HP
+Armour	Mask of the Child
+One
+three
+Pinwheel
+Gravelord
+Catacombs
+Fang Boar
+Armour	Gargoyle Helm
+the Undead Church
+Armour	Black Sorcerer Hat
+Vinheim Dragon School
+Cloak
+Vinheim Dragon School
+Gauntlets
+Vinheim Dragon School
+Armour	Black Sorcerer Boots	"Boots
+Vinheim Dragon School
+Armour	Elite Cleric Helm	"Helm
+the Way of White
+Armour	Elite Cleric Armor
+the Way of White
+Armour	Elite Cleric Gauntlets
+Gauntlets
+the Way of White
+Armour	Elite Cleric Leggings
+the Way of White
+Armour	Helm
+Helm of Artorias the Abysswalker
+one
+Gwyn
+Four
+Knights
+Armour	Armor of
+Armor of Artorias the Abysswalker
+one
+Gwyn
+Four
+Knights
+Artorias
+Gauntlets of Artorias the Abysswalker
+one
+Gwyn
+Four
+Knights
+Abyss
+Armour	Leggings
+Leggings of Artorias the Abysswalker
+one
+Gwyn
+Four
+Knights
+Abyss
+Armour	Porcelain Mask
+Mask of the Lord's Blade Ciaran
+one
+Gwyn
+Four
+Knights
+Ciaran
+Blade Robe
+Robe of the Lord's Blade Ciaran
+one
+Gwyn
+Four
+Knights
+Blade Gloves
+Blade Ciaran
+one
+Gwyn
+Four
+Knights
+Blade Waistcloth	"
+Waistcloth
+Blade Ciaran
+one
+Gwyn
+Four
+Knights
+Waistcloth
+Armour	Gough's Helm
+Helm of Hawkeye Gough
+one
+Gwyn
+Four
+Knights
+Hawkeye Gough
+Gough
+Armour	Gough's Armor
+Armor of Hawkeye Gough
+one
+Gwyn
+Four
+Armour	Gough's Gauntlets
+Gauntlets of Hawkeye Gough
+one
+Gwyn
+Four
+Knights
+the Silver Knights
+Armour	Gough's Leggings
+Leggings of Hawkeye Gough
+one
+Gwyn
+Four
+Knights
+the Silver Knights
+Armour	Guardian Helm
+Armour	Guardian Armor
+Armor of the stone knights
+Armour	Guardian Gauntlets
+Gauntlets of the stone knights
+Armour	Guardian Leggings
+Leggings of the stone knights
+Armour	Snickering Top Hat
+Marvellous Chester
+Chester
+Marvellous Chester
+Armour	Chester's Gloves
+Marvellous Chester
+Marvellous Chester
+the Dark of Manus
+Abyss
+the Dark of Manus
+Abyss
+Dragon Torso Stone
+Dragon Torso Stone
+Dragon Torso Stone
+Egg Vermifuge
+the White Sign Soapstone
+one
+Darkwraiths
+The Red Sign Soapstone
+Darkwraiths
+Kaathe
+one
+Item	Book of the Guilty	"
+The Goddess of Sin Velka
+the Eyes of Death
+Kaathe
+the Daughters of Chaos.
+Eingyi
+Eingyi
+Eingyi
+Book of the Guilty
+Reprisal
+Blades of the Darkmoon
+Keeper
+a Fire Keeper
+the Fire Keeper
+The Black Eye
+the Gods,
+the Blade of Chaos
+the Black Eye
+Shiva
+one day
+Hollow
+Anor Londo
+Estus
+Fills HP
+The Estus Flasks
+Keeper
+Artorias
+One
+Anor Londo
+Artorias
+Abyss
+Elizabeth
+HP
+Goddess Gwynevere
+HP
+The Goddess of Sunlight Gwynevere
+Sunlight Gwyn
+Bloodred Moss Clump
+Potently
+Carim
+The Purging Stone
+the Flame of Chaos
+Hollows
+Lloyd's Talisman
+Talisman
+Lloyd
+Lloyd's
+1
+seven
+Binoculars
+Astora
+Velka
+Sin Annul
+Goddess Velka
+Velka
+one day
+the Blades of the Darkmoon
+the Dark Sun
+Sunlight Medal
+Sun
+the Warrior of Sunlight
+Gwyn
+Sun
+the Warrior of Sunlight
+Gwyn
+only one
+only one
+Old Man McLoyf
+Knight King Rendal
+Lloyd
+Peculiar Doll
+Dried Finger	"
+Soul of the Ash Maiden
+the Ash Maiden
+Soul of the Darkmoon Knightess
+Fire Keeper
+Anor Londo
+A Fire Keeper's
+Soul of a Daughter of Chaos, Fire Keeper
+Quelaag
+Soul of a long-
+Fire Keeper
+Each Fire Keeper
+Estus Flasks
+Estus
+HP
+Item	Soul of a Lost Undead
+Soul of a
+Hollow
+Hollow
+Hollow
+Hollow
+Item	Soul of a Nameless Soldier	"Soul of a nameless
+Hollow
+Hollow
+Hollow
+Hollow
+Item	Soul of a Proud Knight	"Soul of a
+Hollow
+Hollow
+Hollow
+Hollow
+Item	Soul of a Brave Warrior	"Soul of a brave Undead
+Hollow
+Hollow
+Hollow
+Hollow
+Item	Soul of a Hero	"Soul of a hero of legend
+Hollow
+Hollow
+Item	Soul of a Great Hero
+Hollow
+Hollow
+1
+HP
+2
+HP
+you\
+\I'm sorry\
+Item	Soul of Quelaag	"Soul of Quelaag
+the Witch of Izalith
+Quelaag
+Item	Soul of Sif	"Soul of Sif the Great Grey Wolf
+Artorias the Abysswalker
+Sif
+knightsword
+Soul of Gwyn
+Soul of the Gwyn
+First
+Gwyn
+Gwyn
+Sen's Fortress
+Anor Londo
+Item	Soul of Ornstein	"Soul of Ornstein
+Dragonslayer Knight
+Anor Londo
+Gwyn
+four
+Item	Soul of the Moonlight Butterfly	"Soul of the mystical
+Moonlight Butterfly
+the Darkroot Garden
+Seath the Scaleless
+Item	Soul of Smough	"Soul of Smough the Executioner
+Anor Londo
+Item	Soul of Priscilla	"Soul of Priscilla the Crossbreed
+Ariamis
+Item	Soul of Gwyndolin	"Soul of Darkmoon Gwyndolin
+the Dark Sun
+Anor Londo
+Gwyn
+Soul of the white winged lion sanctuary watchkeeper
+Abyss
+Guardian
+Item	Soul of Artorias	"Soul of Lord Gwyn's
+Knight Artorias
+Abyss
+Artorias
+Abyss
+half
+Abyss
+Item	Soul of Manus	"Soul of Manus
+Abyss
+Ember
+Astora
++5 std wpn
+wpn
+Ember
+Astora
+Ember
+Seath the Scaleless
+wpn
+Ember
+Vinheim
+Ember
+Oolacile
+wpn
+Ember
+wpn
+Ember
+Ember
+Ember
+Izalith
+Titanite
+the Legendary Slabs
+Titanite
+Titanite
+the Legendary Slabs
+Titanite
+Titanite
+the Legendary Slabs
+Titanite
+Lordran
+the Legendary Slabs
+Lordran
+the Legendary Slabs
+Lordran
+the Legendary Slabs
+Red Titanite Chunk
+Lordran
+the Legendary Slabs
+Legendary Slabs
+Legendary Slabs
+Legendary Slabs
+Red Titanite Slab
+Legendary Slabs
+today
+Slab
+Opens
+the Undead Burg
+Artorias the Abysswalker
+Sen's Fortress
+Archive Tower
+The Archive Tower
+"
+Item	Archive Tower Giant Door Key	"Key to the giant door
+Archive Tower
+Archive Tower
+Key to Blighttown
+Blighttown
+New Londo
+Drake Valley
+New Londo
+the Painted World of Ariamis
+North
+second
+the North Undead Asylum
+The Undead Asylum
+New Londo
+Four
+New Londo
+Darkwraiths
+Four
+Nearly half
+New Londo
+Firelink Shrine
+New Londo
+second
+the North Undead Asylum
+The Undead Asylum
+the Undead Burg
+Hollow
+Archive Tower
+Archive Tower
+Burg
+Soul of Gravelord Nito
+first
+This Lord Soul
+the dawn of the Age of Fire
+Gravelord Nito
+Soul of the Bed of Chaos
+This Lord Soul
+the dawn
+Izalith
+First
+Soul of one of the Four Kings
+Lord Soul
+the dawn of the Age of Fire
+Gwyn
+four
+New Londo
+Soul of the albino Seath the Scaleless
+Lord Soul
+the dawn of the Age of Fire
+Gwyn
+Dukedom
+Gwyn
+the Firelink Altar
+Half
+Item	Repairbox
+Kindling
+Estus
+Hollowing
+Soul Arrow
+the Vinheim Dragon School
+Heavy Soul Arrow
+Heavy Soul Arrow
+Big Hat Logan
+Logan
+Logan
+the Regal Archives
+Item	Soul Spear	"Sorcery
+Big Hat Logan
+Logan
+Gwyn
+Logan
+the Regal Archives
+Vinheim
+Magic Shield
+Magic Weapon
+Vinheim Dragon School
+Logan
+Logan
+Shields
+Magic Shield
+Vinheim Dragon School
+Oolacile
+Vinheim
+Vinheim Dragon School
+Vinheim
+the Dragon School
+first
+Repair Powder
+Vinheim Dragon School
+Hush
+Vinheim
+Chameleon
+Hidden Body
+New Londo Sacrifice
+Yulva
+one
+the Sealers of New Londo
+One
+New Londo's
+Blighttown
+Logan
+Seath the Scaleless
+Seath the Scaleless
+Big Hat
+Dark Orb
+Dark Orbs
+Dark Fog
+Dark Fog
+Abyss
+the Great Swamp
+Pyromancy
+Fireball
+Ultimate
+Salaman
+Pyromancer
+the Great Fireball
+Quelana
+Izalith
+Fire Tempest
+Primal
+Quelana
+Izalith
+the Daughters of Chaos
+Pyromancy
+the Great Swamp
+the Great Swamp
+one
+Quelana
+Izalith
+Combustion
+One
+pyromancies
+Pyromancy
+Pyromancy
+Poison Mist
+Eingyi
+Eingyi
+Eingyi
+Eingyi
+the Great Swamp
+One
+Pyromancy
+the Great Swamp
+the Great Swamp
+one
+Pyromancy
+Carmina
+Flash Sweat
+Pyromancy
+Carmina
+Salaman
+Pyromancy
+Undead Rapport
+Pyromancy
+Carmina
+HP
+eons
+Art of the Flame of Chaos
+the Witch of Izalith
+The Flame of Chaos
+Art of the Flame of Chaos
+the Witch of Izalith
+The Witch of Izalith
+the Flame of Chaos
+Art of the Flame of Chaos
+the Witch of Izalith
+the Daughters of Chaos
+HP
+HP
+HP
+Gwynevere
+Gradual HP
+Sun
+Gwynevere
+first
+Gravelord Nito
+Giant Gravelord swords jut
+the Giant Catacombs
+first
+Gravelord Nito
+Giant Gravelord swords jut
+the Greatsword Dance
+Gravelord
+the Way of White
+The Way of White
+Force
+Force
+Force
+Outland
+the Way of White
+Force
+the God of War
+Gwyn
+Gwyn
+Gwyn
+Bishop Havel
+Gwyn
+Seath the Scaleless
+Velka
+Goddess Velka
+Miracle of the black-haired
+Velka
+Goddess Velka
+Velka
+Velka
+the Goddess of Sin
+Gwyn
+Sun
+Gwyndolin
+Gwyn
+Darkmoon
+Darkmoon
+Gwyndolin
+Gwyn
+Darkmoon
+Darkmoon
+Havel
+Gwyn
+Havel
+Ring	Red Tearstone Ring
+Carim
+Ring	Darkmoon Blade Covenant Ring	"Ring
+Gwyndolin
+Gwynevere
+Anor Londo
+Ring	Cat Covenant Ring	Ring
+Hunter
+Alvina
+Alvina
+the early Age of Fire
+Alvina
+Knight Artorias
+Ring	Flame Stoneplate Ring
+Ring	Thunder Stoneplate Ring
+Ring	Spell Stoneplate Ring
+Ring	Speckled Stoneplate Ring	"Stoneplates
+Ring	Bloodbite Ring
+One
+Arstor
+Carim
+Ring	Poisonbite Ring
+One
+Arstor
+Carim
+Ring	Tiny Being's Ring	"Ring
+HP
+Ring	Cursebite Ring
+One
+Arstor
+Carim
+Ring	White Seance Ring
+the Way of White
+Allfather Lloyd
+Gwyn
+the Way of White
+one
+Thorolund
+Ring	Bellowing Dragoncrest Ring
+Vinheim Dragon School
+one-half
+HP
+Ring	Hornet Ring
+One
+four
+Gwyn
+The Hornet Ring
+Blade Ciaran
+Ciaran
+Gwyn
+Ring	Hawk Ring
+One
+four
+Gwyn
+The Hawk Ring
+Hawkeye Gough
+Greatarchers
+Gough
+Ring	Ring of Steel Protection
+Knight
+one
+Ring	Covetous Gold Serpent Ring
+Ring	Covetous Silver Serpent Ring
+Ring	Slumbering Dragoncrest Ring
+Vinheim Dragon School
+Ring	Ring of Fog
+Alvina
+Ring	Rusted Iron Ring
+Ring	Ring of Sacrifice
+Velka
+the Goddess of Sin
+Ring	Rare Ring of Sacrifice
+Velka
+the Goddess of Sin
+Ring	Dark Wood Grain Ring
+Eastern
+Ring	Ring of the Sun Princess
+Gwynevere
+Gwyn
+Anor Londo
+Ring	Ring of Condemnation
+Velka
+the Goddess of Sin
+Velka the Goddess of Sin
+Ring	Ring of Blind Ghosts
+New Londo
+three
+two
+New Londo
+Ring	Old Witch's Ring
+Ring	Covenant
+Knight Artorias's
+Abyss
+Artorias
+Abyss
+Ring	Orange Charred Ring
+Ring	Ring of Displacement
+New Londo
+New Londo
+Ring	Lingering Dragoncrest Ring
+Vinheim Dragon School
+Ring	Ring of the Evil Eye
+Astora
+HP
+Ring	Ring of Favor and Protection
+Fina
+beauty.\
+HP
+"
+Ring	Leo Ring	One
+four
+Gwyn
+The Leo Ring
+Ornstein the Dragonslayer
+two
+Ring	East Wood Grain Ring
+Eastern
+East
+Ring	Wolf Ring
+One
+four
+Gwyn
+The Wolf Ring
+Artorias the Abysswalker
+Artorias
+Ring	Blue Tearstone Ring
+Catarina
+Ring	Ring of the Sun's
+Gwyn
+Gwyn
+Today
+Ring	Darkmoon Seance Ring
+Gwyndolin
+Gwyn
+Anor Londo
+Ring	Calamity Ring
+Kalameet
+Soul Arrow
+the Vinheim Dragon School
+Heavy Soul Arrow
+Heavy Soul Arrow
+Big Hat Logan
+Logan
+Logan
+the Regal Archives
+Big Hat Logan
+Logan
+Gwyn
+Logan
+the Regal Archives
+Vinheim
+Magic Shield
+Magic Weapon
+Vinheim Dragon School
+Logan
+Logan
+Shields
+Spell	Strong Magic Shield
+Magic Shield
+Vinheim Dragon School
+Oolacile
+Vinheim
+Vinheim Dragon School
+Vinheim
+the Dragon School
+first
+Spell	Repair
+Repair Powder
+Spell	Fall Control
+Vinheim Dragon School
+Hush
+Vinheim
+Hidden Body
+New Londo Sacrifice
+Yulva
+one
+the Sealers of New Londo
+One
+New Londo's
+Blighttown
+Logan
+Seath the Scaleless
+Seath the Scaleless
+Big Hat
+Dark Orb
+Dark Orbs
+Dark Fog
+Dark Fog
+Abyss
+the Great Swamp
+Pyromancy
+Fireball
+Ultimate
+Salaman
+Pyromancer
+the Great Fireball
+Quelana
+Izalith
+Primal
+Quelana
+Izalith
+the Daughters of Chaos
+Spell	Fire Surge
+Pyromancy
+the Great Swamp
+the Great Swamp
+one
+Spell	Fire Whip
+Quelana
+Izalith
+Combustion
+One
+pyromancies
+Pyromancy
+Eingyi
+Eingyi
+Eingyi
+Eingyi
+the Great Swamp
+One
+Pyromancy
+the Great Swamp
+the Great Swamp
+one
+Pyromancy
+Carmina
+Pyromancy
+Carmina
+Salaman
+Pyromancer
+Quelana
+Izalith
+Spell	Power
+Pyromancy
+Carmina
+HP
+eons
+Art of the Flame of Chaos
+the Witch of Izalith
+The Flame of Chaos
+Art of the Flame of Chaos
+the Witch of Izalith
+the Flame of Chaos
+Art of the Flame of Chaos
+the Witch of Izalith
+the Daughters of Chaos
+HP
+HP
+HP
+Gwynevere
+Gradual HP
+Sun
+Gwynevere
+first
+Gravelord Nito
+Giant Gravelord swords jut
+the Giant Catacombs
+first
+Gravelord Nito
+Giant Gravelord swords jut
+the Greatsword Dance
+Gravelord
+the Way of White
+The Way of White
+Spell	Force
+Force
+Force
+Force
+Spell	Emit Force
+Outland
+the Way of White
+Force
+the God of War
+Gwyn
+Gwyn
+Gwyn
+Bishop Havel
+Gwyn
+Seath the Scaleless
+Spell	Karmic Justice
+Miracle of the black-haired
+Velka
+Goddess Velka
+Outland
+the Way of White
+Velka
+Velka
+the Goddess of Sin
+Gwyn
+Sun
+Gwyndolin
+Gwyn
+Darkmoon
+Darkmoon
+Weapon	Parrying Dagger
+Carim
+New Londo
+One
+one
+Priscilla
+the Dragon Crossbreed
+Ariamis
+Straight Sword Attack
+Straight Sword Attack
+Weapon	Balder Side Sword
+Balder
+Balder
+Knight King Rendal
+Solaire
+Astora
+Darkwraith Kirk
+Str
+Anor Londo
+Weapon	Astora's Straight Sword
+one
+Astora
+Four
+New Londo
+Four
+Darkwraiths
+darkswords
+one
+drake
+two
+tight quarters
+Weapon	Claymore	Weapon
+two
+Sen's Fortress
+Weapon	Flamberge
+Sen's Fortress
+Weapon	Stone Greatsword	Weapon
+two
+Weapon	Greatsword of Artorias
+wolf Sif
+Artorias
+Artorias
+Darkwraiths
+wolf Sif
+Artorias
+Artorias
+Darkwraiths
+Gwyn
+Gwyn
+Moonlight Greatsword	"Weapon type:
+one
+Seath the Scaleless
+Weapon	Greatsword of Artorias
+wolf Sif
+Artorias
+Artorias
+Abyss
+Gwyn
+Gwyn
+Ultra Greatsword Attack
+One
+two
+Ultra Greatsword Attack
+the Knights Berenike
+Black Iron Tarkus
+Ultra Greatsword Attack
+Capra
+Ultra Greatsword Attack
+one
+Ash Lake
+two
+Ultra Greatsword Attack
+Curved Sword Attack
+Curved Sword Attack
+Curved Sword Attack
+Earl of Carim
+Curved Sword Attack
+New Londo
+One
+Curved Sword Attack
+Anor Londo
+Quelaag
+Furysword	"
+Curved Sword Attack
+Quelaag
+the Witch of Izalith
+Quelaag
+Imbued
+HP
+Slash Giant
+Eastern
+Katana
+Nata
+Gravelord Nito
+first
+Eastern
+Uchigatana
+Eastern
+Katana
+Eastern
+Katana
+Iaijutsu
+Quelaag
+the Witch of Izalith
+Quelaag
+Weapon	Mail Breaker
+Thrusting Sword Attack
+Thrust Standard
+Thrusting Sword Attack
+one
+Thrusting Sword Attack
+one
+Velka
+Rapier
+Thrusting Sword Attack
+Velka
+Thrusting Sword Attack
+Ricard
+North
+One
+one
+One
+the Way of White
+The Crescent Axe
+Weapon	Golem Axe
+Sen's Fortress
+Anor Londo
+one
+Weapon	Gargoyle Tail Axe
+Anor Londo
+Weapon	Greataxe
+greataxe
+Taurus
+one
+Weapon	Club
+one
+one
+one
+One
+Pickaxe
+burg
+Andre of Astora
+the Old Church
+Anor Londo
+Weapon	Hammer of Vamos
+Vamos
+Catacombs
+Weapon	Great Club	"Weapon type:
+the Way of White
+North Undead Asylum
+Havel
+Weapon	Large Club	"Weapon type:
+Blighttown
+Smough
+Anor Londo
+Smough
+the Four Knights
+Caestus
+Caestus
+Weapon	Claw
+three
+Eastern
+Sen's Fortress
+Anor Londo
+Kaathe
+cramped quarters
+Batwing
+Anor Londo
+Channeler
+Trident	"Weapon type:
+Thrust Trident
+Seath the Scaleless
+Anor Londo
+Weapon	Pike
+Thrust Cross
+Ornstein
+Dragonslayer
+Anor Londo
+Two
+Moonlight Butterfly Horn
+Thrust Weapon
+the Darkroot Garden
+Thrust Cross
+Ornstein
+Dragonslayer
+Anor Londo
+Two
+Halberd Attack
+Halberd
+two
+one
+Weapon	Giant's
+Halberd
+Halberd Attack
+Anor Londo
+Halberd Attack
+One
+Weapon	Gargoyle's
+Halberd	Weapon
+Halberd Attack
+Halberd	Weapon
+Halberd Attack
+Slash Halberd
+Weapon	Lucerne
+Halberd Attack
+Lucerne
+Halberd Attack
+Slash Halberd
+one
+one
+Halberd Attack
+Lifehunt Scythe
+Halberd Attack
+Priscilla
+the Painted World of Ariamis
+Priscilla
+Weapon	Longbow	Weapon
+Pharis
+Greatbow Attack
+Dragonslayers
+Hawkeye Gough
+one
+Gwyn
+Four
+Knights
+Darkmoon
+Anor Londo
+Moonlight Arrows
+Equip
+Equip
+Weapon	Avelyn
+Eidas
+Carim
+the Sniper Crossbow
+Vinheim Dragon School
+Equip
+Attune
+Beatrice
+Vinheim
+age-old
+Weapon	Tin Banishment Catalyst
+Thrust Catalyst
+New Londo
+Darkwraiths
+Weapon	Logan's
+the Vinheim sorcerers
+Logan
+one
+Weapon	Tin Darkmoon Catalyst
+Darkmoon
+Anor Londo
+Gwyndolin
+Gwyn
+Moon
+Oolacile
+Thrust Catalyst
+Logan
+Izalith
+The Demon Firesage
+first
+the Witch of Izalith
+the Chaos Flame
+Pyromancy Flame Attack
+Great Swamp
+Pyromancers
+Equip
+Attune
+pyromancies
+Pyromancy Flame Attack
+Pyromancy
+Quelana
+Izalith
+Attune
+Talisman
+Attune
+Thorolund
+Weapon	Ivory Talisman
+Ivory Talismans
+Talisman	Dragon Talismans
+Weapon	Sunlight Talisman	"Weapon
+Solaire
+Astora
+Solaire
+Solaire
+Darkmoon Blade
+Velka
+Velka
+Catacombs
+Droops
+Giants
+Nito
+Weapon	Target Shield
+Four
+Parry
+Weapon	Plank Shield
+Caduceus
+Weapon	Crystal Ring Shield
+the Darkroot Garden
+Imbued
+Seath the Scaleless
+100%
+Balder
+Balder
+Knight King Rendal
+Astora
+One
+Astora
+One
+East
+Deflects
+Darkwraith Kirk
+Knight
+Solaire
+Solaire
+the Silver Knights of Anor Londo
+The Silver Knights
+Anor Londo
+the Black Knights
+Lordan
+Thrust Shield
+Catarina
+Weapon	Red and White Round Shield
+Caduceus
+Weapon	Gargoyle's
+100%
+Greatshield Attack
+greatshield
+Greatshield Attack
+Knight Berenike
+Greatshield Attack
+Greatshield
+Anor Londo
+Marcasite
+Greatshield Attack
+greatshield
+the Darkroot Garden
+the Stone Knight
+The Stone Knight
+Greatshield Attack
+Havel the Rock
+greatshield
+Havel
+the Dragon Tooth
+Weapon	Bonewheel Shield
+Greatshield Attack
+Strike Giant
+Half
+greatshield
+Artorias
+Greatshield Attack
+wolf Sif
+Artorias
+Arrow Attack
+Arrow Attack
+Arrow Attack
+Arrow Attack
+Thrust Arrows
+Arrow Attack
+Thrust Arrow
+one
+Moonlight Arrow	"Weapon type:
+Arrow Attack
+Thrust Arrow
+Gwyn
+Moonlight Arrows
+Arrow Attack
+Thrust Giant
+Hawkeye Gough
+Dragonslayers
+Dragonslayer Arrows
+the Dragonslayer Greatbow
+Hawkeye Gough
+one
+Gwyn
+Four
+Knights
+Greatbow
+the Light Crossbow
+Thrust Red
+the Sniper Crossbow
+Weapon	Wood Bolt
+Anor Londo
+Weapon	Bolt	
+Weapon	Effigy Shield
+Gravelord Nito
+first
+Weapon	Sanctus
+the Way of White
+HP
+Weapon	Bloodshield
+bloodshield
+Greatshield Attack
+Tarkus
+Knight Berenike's
+Curved Sword Attack
+Blade Ciaran
+one
+Gwyn
+Four
+Knights
+Ciaran
+Blade Ciaran
+Gwyn
+Four
+Knights
+first
+the Gold Tracer
+Gwyn
+Knight Artorias
+Abyss
+Abyss
+Greatshield Attack
+Knight Artorias
+Abyss
+Artorias
+Abyss
+Sif
+Weapon	Stone Greataxe
+Sanctuary
+greataxe
+Four
+Four
+Sanctuary
+four
+Manus
+Abyss
+the Tin Crystallization Catalyst
+the Sanctuary Guardian
+greataxe
+one
+one
+Kalameet
+Greatbow Attack
+Greatbow
+Hawkeye Gough
+Gwyn
+Four
+Knights
+Dragonslayers
+Gough
