@@ -8,6 +8,23 @@ section.title img{
 body{
     background-color: black;
 }
+h1{
+    color: white;
+    text-align: center;
+}
+/*  div.doc {
+    border-style: double;
+    border:6px;
+    color: white;
+    background-color: black;
+}*/
+div.doc p{
+    color: white;
+    border-style: double;
+    border:6px;
+    color: white;
+    background-color: black;
+}
 section.title h1 {
     color: white;
     text-align: center;
