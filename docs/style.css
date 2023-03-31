@@ -11,19 +11,24 @@ body{
 h1{
     color: white;
     text-align: center;
+    font-size: 2em;
 }
-/*  div.doc {
-    border-style: double;
-    border:6px;
+div.doc {
+    border: double;
+    border-width:6px;
     color: white;
     background-color: black;
-}*/
+    padding: 6.5em;
+    margin: auto;
+}
 div.doc p{
     color: white;
-    border-style: double;
-    border:6px;
+    border: double;
+    border-width:6px;
     color: white;
     background-color: black;
+    font-size: 2em;
+    padding: 2em;
 }
 section.title h1 {
     color: white;
