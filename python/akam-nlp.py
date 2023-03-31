@@ -27,19 +27,28 @@ def readTextFiles(filepath):
     listEntities = entitycollector(tokens)
     print(listEntities)
     # return listEntities
-    print(len(listEntities))
-    # cardinal_freq = Counter(listCardinals)
-    # topTen = cardinal_freq.most_common(10)
-    # print(topTen)
-    file = open('itemsOutput.txt', 'w')
-    for entity in listEntities:
-        print("YELL")
-        print(entity)
-        file.write(entity)
-        file.write('\n')
-    file.close()
-
-
+    # print(len(listEntities))
+    # # cardinal_freq = Counter(listCardinals)
+    # # topTen = cardinal_freq.most_common(10)
+    # # print(topTen)
+    # file = open('itemsOutput.txt', 'w')
+    # for entity in listEntities:
+    #     print(entity)
+    #     file.write(entity)
+    #     file.write(entity.label_)
+    #     file.write('\n')
+    # file.close()
+    with open('itemsOutput.txt', 'w') as f:
+        entities = []
+        for entity in tokens.ents:
+            # OLD VERSION print(entity.text, entity.label_, spacy.explain(entity.label_))
+# NEW VERSION: MAKE IT A LIST:
+            entityInfo = [entity.text, entity.label_, spacy.explain(entity.label_)]
+            stringify = str(entityInfo)
+            print(stringify)
+            f.write(stringify)
+            f.write('\n')
+# TSA: This works much better, I can now get output for each item now that it is a list.
 
 def entitycollector(tokens):
     entities = []

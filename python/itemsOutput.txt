@@ -1,1853 +1,1848 @@
-ItemType	Name
-the Knights of Catarina
-the Knights of Catarina
-the Knights of Catarina
-the Knights of Catarina
-Paladin Helm
-Leeroy
-Paladin
-Catacombs
-the Way of White
-first
-Grant
-Sanctus
-Leeroy
-first
-the Way of White
-Paladin Armor	"Armor of Leeroy
-Paladin
-Catacombs
-the Way of White
-first
-Grant
-Sanctus
-Leeroy
-first
-the Way of White
-Paladin Gauntlets
-Gauntlets of
-Leeroy
-Paladin
-Catacombs
-the Way of White
-first
-Grant
-Sanctus
-Leeroy
-first
-the Way of White
-Leggings of Leeroy
-Paladin
-Catacombs
-the Way of White
-first
-Grant
-Sanctus
-Leeroy
-first
-the Way of White
-Mask of the Darkwraiths
-New Londo
-Darkwraith
-Armor of the Darkwraiths
-New Londo
-Lifedrain
-Gauntlets of the Darkwraiths
-New Londo
-Lifedrain
-Armour	Dark Leggings
-Leggings of the Darkwraiths
-New Londo
-Lifedrain
-Hood
-Armour	Brigand Gauntlets	Gauntlets
-Eastern
-Eastern
-Eastern
-Armour	Shadow Leggings
-Eastern
-Armour	Black Iron Helm
-Helm of Black Iron Tarkus
-Tarkus
-Armour	Black Iron Armor
-Armor of Black Iron Tarkus
-Tarkus
-Armour	Black Iron Gauntlets
-Gauntlets of Black Iron Tarkus
-Tarkus
-Armour	Black Iron Leggings
-Leggings of Black Iron Tarkus
-Tarkus
-Smough
-Anor Londo
-Armour	Smough's
-Anor Londo
-Armour	Smough's
-Gauntlets of Smough
-Anor Londo
-Armour	Smough's
-Leggings of Smough
-Anor Londo
-Helm of the Channelers
-Seath the Scaleless
-six
-two
-Armour	Robe
-Robe of the Channelers
-Seath the Scaleless
-Gauntlets of the Channelers
-Seath the Scaleless
-Channelers
-Seath the Scaleless
-Helm of Lautrec
-Fina
-Armor of Lautrec the Embraced
-Fina
-Gauntlets of Lautrec the Embraced
-Fina
-Armour	Leggings of Favor
-Leggings of Lautrec
-Fina
-Armour	Helm
-Zena
-Domhnall
-two
-Armour	Armor of the Glorious
-Zena
-Domhnall
-Zena
-Domhnall
-Armour	Boots of the Explorer
-Zena
-Domhnall
-Armour	Stone Helm
-the Stone Knight
-the Darkroot Garden
-The Stone Knight
-Armour	Stone Armor
-the Stone Knight
-the Darkroot Garden
-The Stone Knight
-Armour	Stone Gauntlets
-the Stone Knight
-the Darkroot Garden
-The Stone Knight
-Armour	Stone Leggings
-the Stone Knight
-the Darkroot Garden
-The Stone Knight
-Helm
-Crystalline Armor	"Armor
-Gauntlets
-Armour	Mask of the Sealer
-Mask of the sorcerers
-New Londo
-Darkwraiths
-Four
-two
-three
-New Londo
-New Londo
-Darkwraiths
-Four
-New Londo
-Darkwraiths
-Four
-New Londo
-Darkwraiths
-Four
-Armour	Mask of
-Velka
-the Goddess of Sin
-Armour	Black Cleric Robe	"Robe
-Velka
-the Goddess of Sin
-Velka
-Armour	Black Manchette
-Manchette
-Velka
-the Goddess of Sin
-Velka
-Armour	Black Tights	"Tights
-Velka
-the Goddess of Sin
-Velka
-Armour	Iron Helm
-Solaire
-Armour	Armor of the Sun	"Armor of Solaire
-Sun
-Solaire
-Solaire
-Armour	Iron Bracelet
-Solaire
-Armour	Iron Leggings
-Leggings of Solaire
-Solaire
-Armour	Chain Helm
-Knights
-Knights
-Gauntlets
-One
-Armour	Chain Leggings
-Knights
-Helm
-the Way of White
-the Way of White
-Gauntlets
-the Way of White
-Armour	Cleric Leggings
-the Way of White
-Armour	Helm of Thorns
-Knight of Thorns
-Darkwraiths
-Kirk
-Armour	Armor of Thorns
-Armor of Kirk
-Knight of Thorns
-Darkwraiths
-Kirk
-Gauntlets of Kirk
-Knight of Thorns
-Darkwraiths
-Kirk
-Armour	Leggings of Thorns
-Leggings of Kirk
-Knight of Thorns
-Darkwraiths
-Kirk
-Gauntlets
-Vinheim Dragon School
-Cloak
-Vinheim Dragon School
-Gauntlets
-Vinheim Dragon School
-Vinheim Dragon School
-Hood
-the Great Swamp
-Robe
-the Great Swamp
-Manchette
-the Great Swamp
-Armour	Heavy Boots	"Boots
-Armour	Pharis's Hat
-Pharis
-Pharis
-Hawkeye Gough
-one
-Four
-Gwyn
-Armour	Leather Gloves	Gloves
-Armour	Leather Boots	Boots
-Armour	Painting Guardian Hood	"
-Hood
-Anor Londo
-the Great Paintings of Ariamis for ages
-Armour	Painting Guardian Robe
-Robe
-Anor Londo
-the Great Paintings of Ariamis for ages
-Armour	Painting Guardian Gloves
-Anor Londo
-the Great Paintings of Ariamis for ages
-Armour	Painting Guardian
-Waistcloth	"
-Waistcloth
-Anor Londo
-the Great Paintings of Ariamis for ages
-Ornstein
-Anor Londo
-Ornstein
-the Four Knights
-Armor of the dragonslayer
-Ornstein
-Anor Londo
-Ornstein
-the Four Knights
-Gauntlets of the dragonslayer
-Ornstein
-Anor Londo
-Ornstein
-the Four Knights
-Leggings of the dragonslayer
-Ornstein
-Anor Londo
-Ornstein
-the Four Knights
-Eastern
-East
-Eastern Land
-East
-Eastern
-East
-Eastern
-East
-the Xanthous King Jeremiah
-the Xanthous King Jeremiah
-the Xanthous King Jeremiah
-Xanthous Waistcloth
-the Xanthous King Jeremiah
-Armour	Thief Mask
-Armour	Black Leather Armor
-Armour	Black Leather Gloves
-Armour	Black Leather Boots
-Thorolund
-Lordran
-Robe
-the Way of White
-Armour	Traveling Gloves
-the Way of White
-the Black Knights
-Gwyn
-Fire
-Armor of the Black Knights
-Gwyn
-Fire
-Gauntlets of the Black Knights
-Gwyn
-Fire
-Leggings of the Black Knights
-Gwyn
-Dusk, Princess of Oolacile
-Oolacile
-Oolacile
-Oolacile
-Armour	Witch Hat
-Beatrice
-Dragon School
-Beatrice
-Abyss
-Cloak of the rogue witch
-Beatrice
-Dragon School
-Beatrice
-Abyss
-Armour	Witch Gloves
-Beatrice
-Dragon School
-Beatrice
-Abyss
-Skirt of the rogue witch
-Beatrice
-Dragon School
-Beatrice
-Abyss
-Helm
-Astora
-the Undead Asylum
-Hollow
-Astora
-the Undead Asylum
-Hollow
-Astora
-the Undead Asylum
-Hollow
-Astora
-the Undead Asylum
-Hollow
-Hood of an
-Armour	Wanderer Coat
-one
-Armour	Wanderer Boots	Boots of an
-Armour	Mage Smith Hat
-Vinheim Dragon School
-Armour	Mage Smith Coat
-Vinheim Dragon School
-Gauntlets
-Vinheim Dragon School
-Armour	Mage Smith Boots	"Boots
-Vinheim Dragon School
-Armour	Big Hat
-Gigantic
-Logan
-Hat.\
-Logan
-Robe
-Big Hat Logan
-his apprentice days
-Dragon School
-Logan
-Armour	Traveling Gloves	Gloves
-Big Hat Logan
-Armour	Traveling Boots	Boots
-Big Hat Logan
-Armour	Dingy Hood
-Worn by the Fire Keeper at Firelink Shrine
-the years
-Armour	Dingy Robe
-Worn by the Fire Keeper at Firelink Shrine
-the years
-Armour	Dingy Gloves
-Worn by the Fire Keeper at Firelink Shrine
-the years
-Worn by the Fire Keeper at Firelink Shrine
-Armour	Maiden Gloves
-White
-the Silver Knights
-Anor Londo
-Gwyn
-Fire
-two
-The Silver Knights
-Armor of the Silver Knights
-Anor Londo
-Gwyn
-Fire
-two
-The Silver Knights
-Gauntlets of the Silver Knights
-Anor Londo
-Gwyn
-Fire
-two
-The Silver Knights
-Leggings of the Silver Knights
-Anor Londo
-Gwyn
-Fire
-two
-The Silver Knights
-Armour	Havel's Helm	"Helm
-Havel
-Havel
-Armour	Havel's Armor
-Havel
-Havel
-Armour	Havel's
-Gauntlets
-Havel
-Havel
-Armour	Havel's Leggings
-Havel
-Havel
-Helm of the Darkmoon Knightess
-Fire Keeper
-Anor Londo
-Darkmoon
-Armor of the Darkmoon Knightess
-Fire Keeper
-Anor Londo
-Darkmoon
-Gauntlets of the Darkmoon Knightess
-Fire Keeper
-Anor Londo
-Darkmoon
-Armour	Brass Leggings
-Leggings of the Darkmoon Knightess
-Fire Keeper
-Anor Londo
-Darkmoon
-Worn
-Quelana
-Izalith
-Daughter of Chaos
-Worn
-Quelana
-Izalith
-Daughter of Chaos
-Worn
-Quelana
-Izalith
-Daughter of Chaos
-Worn
-Quelana
-Izalith
-one
-the Daughters of Chaos
-Head of the Iron Golem
-Sen's Fortress
-Anor Londo
-Armour	Golem Armor
-Sen's Fortress
-Anor Londo
-Sen's Fortress
-Anor Londo
-Armour	Golem Leggings
-Legs of the Iron Golem
-Sen's Fortress
-Anor Londo
-Helm
-Armour	Soldier's Gloves	Soldier's Gloves
-Waistcloth	Waistcloth
-Armour	Steel Helm
-Hollow
-Armour	Steel Armor
-Armor of the Knights of Berenike
-Hollow
-Armour	Steel Gauntlets
-Gauntlets of the Knights of Berenike
-Hollow
-Armour	Steel Leggings
-Leggings of the Knights of Berenike
-Hollow
-Armour	Thief's Gloves	Thief's Gloves
-Armour	Hollow Thief's Tights	Tights
-Armour	Balder Helm
-Helm
-Balder
-Balder
-Armour	Balder Armor
-Balder
-Balder
-Gauntlets
-Balder
-Balder
-Armour	Balder Leggings
-Balder
-Balder
-Helm
-Hollow
-Hollow
-Waistcloth	Waistcloth
-Hollow
-Anor Londo
-Armor of the giant sentinels
-Anor Londo
-Gauntlets of the
-Anor Londo
-Armour	Giant Leggings
-Leggings of the giant sentinels
-Anor Londo
-Anor Londo
-Darkmoon
-Gwyndolin
-Robe of the Dark Sun Gwyndolin
-Anor Londo
-Gwyndolin
-Moonlight Gloves	"Gloves of the Dark Sun Gwyndolin
-Anor Londo
-Gwyndolin
-Anor Londo
-Gwyndolin
-Crown of Gwyn
-First
-Gwyn
-Armour	Robe
-Robe of Gwyn
-First
-Gwyn
-Armour	Bracelet of the
-Gwyn
-First
-Gwyn
-Armour	Anklet of
-Gwyn
-First
-Gwyn
-Two
-Catacombs
-Vamos
-Armour	Mask
-One
-three
-Pinwheel
-Gravelord
-Catacombs
-Armour	Mask of the Mother
-One
-three
-Pinwheel
-Gravelord
-Catacombs
-HP
-Armour	Mask of the Child
-One
-three
-Pinwheel
-Gravelord
-Catacombs
-Fang Boar
-Armour	Gargoyle Helm
-the Undead Church
-Armour	Black Sorcerer Hat
-Vinheim Dragon School
-Cloak
-Vinheim Dragon School
-Gauntlets
-Vinheim Dragon School
-Armour	Black Sorcerer Boots	"Boots
-Vinheim Dragon School
-Armour	Elite Cleric Helm	"Helm
-the Way of White
-Armour	Elite Cleric Armor
-the Way of White
-Armour	Elite Cleric Gauntlets
-Gauntlets
-the Way of White
-Armour	Elite Cleric Leggings
-the Way of White
-Armour	Helm
-Helm of Artorias the Abysswalker
-one
-Gwyn
-Four
-Knights
-Armour	Armor of
-Armor of Artorias the Abysswalker
-one
-Gwyn
-Four
-Knights
-Artorias
-Gauntlets of Artorias the Abysswalker
-one
-Gwyn
-Four
-Knights
-Abyss
-Armour	Leggings
-Leggings of Artorias the Abysswalker
-one
-Gwyn
-Four
-Knights
-Abyss
-Armour	Porcelain Mask
-Mask of the Lord's Blade Ciaran
-one
-Gwyn
-Four
-Knights
-Ciaran
-Blade Robe
-Robe of the Lord's Blade Ciaran
-one
-Gwyn
-Four
-Knights
-Blade Gloves
-Blade Ciaran
-one
-Gwyn
-Four
-Knights
-Blade Waistcloth	"
-Waistcloth
-Blade Ciaran
-one
-Gwyn
-Four
-Knights
-Waistcloth
-Armour	Gough's Helm
-Helm of Hawkeye Gough
-one
-Gwyn
-Four
-Knights
-Hawkeye Gough
-Gough
-Armour	Gough's Armor
-Armor of Hawkeye Gough
-one
-Gwyn
-Four
-Armour	Gough's Gauntlets
-Gauntlets of Hawkeye Gough
-one
-Gwyn
-Four
-Knights
-the Silver Knights
-Armour	Gough's Leggings
-Leggings of Hawkeye Gough
-one
-Gwyn
-Four
-Knights
-the Silver Knights
-Armour	Guardian Helm
-Armour	Guardian Armor
-Armor of the stone knights
-Armour	Guardian Gauntlets
-Gauntlets of the stone knights
-Armour	Guardian Leggings
-Leggings of the stone knights
-Armour	Snickering Top Hat
-Marvellous Chester
-Chester
-Marvellous Chester
-Armour	Chester's Gloves
-Marvellous Chester
-Marvellous Chester
-the Dark of Manus
-Abyss
-the Dark of Manus
-Abyss
-Dragon Torso Stone
-Dragon Torso Stone
-Dragon Torso Stone
-Egg Vermifuge
-the White Sign Soapstone
-one
-Darkwraiths
-The Red Sign Soapstone
-Darkwraiths
-Kaathe
-one
-Item	Book of the Guilty	"
-The Goddess of Sin Velka
-the Eyes of Death
-Kaathe
-the Daughters of Chaos.
-Eingyi
-Eingyi
-Eingyi
-Book of the Guilty
-Reprisal
-Blades of the Darkmoon
-Keeper
-a Fire Keeper
-the Fire Keeper
-The Black Eye
-the Gods,
-the Blade of Chaos
-the Black Eye
-Shiva
-one day
-Hollow
-Anor Londo
-Estus
-Fills HP
-The Estus Flasks
-Keeper
-Artorias
-One
-Anor Londo
-Artorias
-Abyss
-Elizabeth
-HP
-Goddess Gwynevere
-HP
-The Goddess of Sunlight Gwynevere
-Sunlight Gwyn
-Bloodred Moss Clump
-Potently
-Carim
-The Purging Stone
-the Flame of Chaos
-Hollows
-Lloyd's Talisman
-Talisman
-Lloyd
-Lloyd's
-1
-seven
-Binoculars
-Astora
-Velka
-Sin Annul
-Goddess Velka
-Velka
-one day
-the Blades of the Darkmoon
-the Dark Sun
-Sunlight Medal
-Sun
-the Warrior of Sunlight
-Gwyn
-Sun
-the Warrior of Sunlight
-Gwyn
-only one
-only one
-Old Man McLoyf
-Knight King Rendal
-Lloyd
-Peculiar Doll
-Dried Finger	"
-Soul of the Ash Maiden
-the Ash Maiden
-Soul of the Darkmoon Knightess
-Fire Keeper
-Anor Londo
-A Fire Keeper's
-Soul of a Daughter of Chaos, Fire Keeper
-Quelaag
-Soul of a long-
-Fire Keeper
-Each Fire Keeper
-Estus Flasks
-Estus
-HP
-Item	Soul of a Lost Undead
-Soul of a
-Hollow
-Hollow
-Hollow
-Hollow
-Item	Soul of a Nameless Soldier	"Soul of a nameless
-Hollow
-Hollow
-Hollow
-Hollow
-Item	Soul of a Proud Knight	"Soul of a
-Hollow
-Hollow
-Hollow
-Hollow
-Item	Soul of a Brave Warrior	"Soul of a brave Undead
-Hollow
-Hollow
-Hollow
-Hollow
-Item	Soul of a Hero	"Soul of a hero of legend
-Hollow
-Hollow
-Item	Soul of a Great Hero
-Hollow
-Hollow
-1
-HP
-2
-HP
-you\
-\I'm sorry\
-Item	Soul of Quelaag	"Soul of Quelaag
-the Witch of Izalith
-Quelaag
-Item	Soul of Sif	"Soul of Sif the Great Grey Wolf
-Artorias the Abysswalker
-Sif
-knightsword
-Soul of Gwyn
-Soul of the Gwyn
-First
-Gwyn
-Gwyn
-Sen's Fortress
-Anor Londo
-Item	Soul of Ornstein	"Soul of Ornstein
-Dragonslayer Knight
-Anor Londo
-Gwyn
-four
-Item	Soul of the Moonlight Butterfly	"Soul of the mystical
-Moonlight Butterfly
-the Darkroot Garden
-Seath the Scaleless
-Item	Soul of Smough	"Soul of Smough the Executioner
-Anor Londo
-Item	Soul of Priscilla	"Soul of Priscilla the Crossbreed
-Ariamis
-Item	Soul of Gwyndolin	"Soul of Darkmoon Gwyndolin
-the Dark Sun
-Anor Londo
-Gwyn
-Soul of the white winged lion sanctuary watchkeeper
-Abyss
-Guardian
-Item	Soul of Artorias	"Soul of Lord Gwyn's
-Knight Artorias
-Abyss
-Artorias
-Abyss
-half
-Abyss
-Item	Soul of Manus	"Soul of Manus
-Abyss
-Ember
-Astora
-+5 std wpn
-wpn
-Ember
-Astora
-Ember
-Seath the Scaleless
-wpn
-Ember
-Vinheim
-Ember
-Oolacile
-wpn
-Ember
-wpn
-Ember
-Ember
-Ember
-Izalith
-Titanite
-the Legendary Slabs
-Titanite
-Titanite
-the Legendary Slabs
-Titanite
-Titanite
-the Legendary Slabs
-Titanite
-Lordran
-the Legendary Slabs
-Lordran
-the Legendary Slabs
-Lordran
-the Legendary Slabs
-Red Titanite Chunk
-Lordran
-the Legendary Slabs
-Legendary Slabs
-Legendary Slabs
-Legendary Slabs
-Red Titanite Slab
-Legendary Slabs
-today
-Slab
-Opens
-the Undead Burg
-Artorias the Abysswalker
-Sen's Fortress
-Archive Tower
-The Archive Tower
-"
-Item	Archive Tower Giant Door Key	"Key to the giant door
-Archive Tower
-Archive Tower
-Key to Blighttown
-Blighttown
-New Londo
-Drake Valley
-New Londo
-the Painted World of Ariamis
-North
-second
-the North Undead Asylum
-The Undead Asylum
-New Londo
-Four
-New Londo
-Darkwraiths
-Four
-Nearly half
-New Londo
-Firelink Shrine
-New Londo
-second
-the North Undead Asylum
-The Undead Asylum
-the Undead Burg
-Hollow
-Archive Tower
-Archive Tower
-Burg
-Soul of Gravelord Nito
-first
-This Lord Soul
-the dawn of the Age of Fire
-Gravelord Nito
-Soul of the Bed of Chaos
-This Lord Soul
-the dawn
-Izalith
-First
-Soul of one of the Four Kings
-Lord Soul
-the dawn of the Age of Fire
-Gwyn
-four
-New Londo
-Soul of the albino Seath the Scaleless
-Lord Soul
-the dawn of the Age of Fire
-Gwyn
-Dukedom
-Gwyn
-the Firelink Altar
-Half
-Item	Repairbox
-Kindling
-Estus
-Hollowing
-Soul Arrow
-the Vinheim Dragon School
-Heavy Soul Arrow
-Heavy Soul Arrow
-Big Hat Logan
-Logan
-Logan
-the Regal Archives
-Item	Soul Spear	"Sorcery
-Big Hat Logan
-Logan
-Gwyn
-Logan
-the Regal Archives
-Vinheim
-Magic Shield
-Magic Weapon
-Vinheim Dragon School
-Logan
-Logan
-Shields
-Magic Shield
-Vinheim Dragon School
-Oolacile
-Vinheim
-Vinheim Dragon School
-Vinheim
-the Dragon School
-first
-Repair Powder
-Vinheim Dragon School
-Hush
-Vinheim
-Chameleon
-Hidden Body
-New Londo Sacrifice
-Yulva
-one
-the Sealers of New Londo
-One
-New Londo's
-Blighttown
-Logan
-Seath the Scaleless
-Seath the Scaleless
-Big Hat
-Dark Orb
-Dark Orbs
-Dark Fog
-Dark Fog
-Abyss
-the Great Swamp
-Pyromancy
-Fireball
-Ultimate
-Salaman
-Pyromancer
-the Great Fireball
-Quelana
-Izalith
-Fire Tempest
-Primal
-Quelana
-Izalith
-the Daughters of Chaos
-Pyromancy
-the Great Swamp
-the Great Swamp
-one
-Quelana
-Izalith
-Combustion
-One
-pyromancies
-Pyromancy
-Pyromancy
-Poison Mist
-Eingyi
-Eingyi
-Eingyi
-Eingyi
-the Great Swamp
-One
-Pyromancy
-the Great Swamp
-the Great Swamp
-one
-Pyromancy
-Carmina
-Flash Sweat
-Pyromancy
-Carmina
-Salaman
-Pyromancy
-Undead Rapport
-Pyromancy
-Carmina
-HP
-eons
-Art of the Flame of Chaos
-the Witch of Izalith
-The Flame of Chaos
-Art of the Flame of Chaos
-the Witch of Izalith
-The Witch of Izalith
-the Flame of Chaos
-Art of the Flame of Chaos
-the Witch of Izalith
-the Daughters of Chaos
-HP
-HP
-HP
-Gwynevere
-Gradual HP
-Sun
-Gwynevere
-first
-Gravelord Nito
-Giant Gravelord swords jut
-the Giant Catacombs
-first
-Gravelord Nito
-Giant Gravelord swords jut
-the Greatsword Dance
-Gravelord
-the Way of White
-The Way of White
-Force
-Force
-Force
-Outland
-the Way of White
-Force
-the God of War
-Gwyn
-Gwyn
-Gwyn
-Bishop Havel
-Gwyn
-Seath the Scaleless
-Velka
-Goddess Velka
-Miracle of the black-haired
-Velka
-Goddess Velka
-Velka
-Velka
-the Goddess of Sin
-Gwyn
-Sun
-Gwyndolin
-Gwyn
-Darkmoon
-Darkmoon
-Gwyndolin
-Gwyn
-Darkmoon
-Darkmoon
-Havel
-Gwyn
-Havel
-Ring	Red Tearstone Ring
-Carim
-Ring	Darkmoon Blade Covenant Ring	"Ring
-Gwyndolin
-Gwynevere
-Anor Londo
-Ring	Cat Covenant Ring	Ring
-Hunter
-Alvina
-Alvina
-the early Age of Fire
-Alvina
-Knight Artorias
-Ring	Flame Stoneplate Ring
-Ring	Thunder Stoneplate Ring
-Ring	Spell Stoneplate Ring
-Ring	Speckled Stoneplate Ring	"Stoneplates
-Ring	Bloodbite Ring
-One
-Arstor
-Carim
-Ring	Poisonbite Ring
-One
-Arstor
-Carim
-Ring	Tiny Being's Ring	"Ring
-HP
-Ring	Cursebite Ring
-One
-Arstor
-Carim
-Ring	White Seance Ring
-the Way of White
-Allfather Lloyd
-Gwyn
-the Way of White
-one
-Thorolund
-Ring	Bellowing Dragoncrest Ring
-Vinheim Dragon School
-one-half
-HP
-Ring	Hornet Ring
-One
-four
-Gwyn
-The Hornet Ring
-Blade Ciaran
-Ciaran
-Gwyn
-Ring	Hawk Ring
-One
-four
-Gwyn
-The Hawk Ring
-Hawkeye Gough
-Greatarchers
-Gough
-Ring	Ring of Steel Protection
-Knight
-one
-Ring	Covetous Gold Serpent Ring
-Ring	Covetous Silver Serpent Ring
-Ring	Slumbering Dragoncrest Ring
-Vinheim Dragon School
-Ring	Ring of Fog
-Alvina
-Ring	Rusted Iron Ring
-Ring	Ring of Sacrifice
-Velka
-the Goddess of Sin
-Ring	Rare Ring of Sacrifice
-Velka
-the Goddess of Sin
-Ring	Dark Wood Grain Ring
-Eastern
-Ring	Ring of the Sun Princess
-Gwynevere
-Gwyn
-Anor Londo
-Ring	Ring of Condemnation
-Velka
-the Goddess of Sin
-Velka the Goddess of Sin
-Ring	Ring of Blind Ghosts
-New Londo
-three
-two
-New Londo
-Ring	Old Witch's Ring
-Ring	Covenant
-Knight Artorias's
-Abyss
-Artorias
-Abyss
-Ring	Orange Charred Ring
-Ring	Ring of Displacement
-New Londo
-New Londo
-Ring	Lingering Dragoncrest Ring
-Vinheim Dragon School
-Ring	Ring of the Evil Eye
-Astora
-HP
-Ring	Ring of Favor and Protection
-Fina
-beauty.\
-HP
-"
-Ring	Leo Ring	One
-four
-Gwyn
-The Leo Ring
-Ornstein the Dragonslayer
-two
-Ring	East Wood Grain Ring
-Eastern
-East
-Ring	Wolf Ring
-One
-four
-Gwyn
-The Wolf Ring
-Artorias the Abysswalker
-Artorias
-Ring	Blue Tearstone Ring
-Catarina
-Ring	Ring of the Sun's
-Gwyn
-Gwyn
-Today
-Ring	Darkmoon Seance Ring
-Gwyndolin
-Gwyn
-Anor Londo
-Ring	Calamity Ring
-Kalameet
-Soul Arrow
-the Vinheim Dragon School
-Heavy Soul Arrow
-Heavy Soul Arrow
-Big Hat Logan
-Logan
-Logan
-the Regal Archives
-Big Hat Logan
-Logan
-Gwyn
-Logan
-the Regal Archives
-Vinheim
-Magic Shield
-Magic Weapon
-Vinheim Dragon School
-Logan
-Logan
-Shields
-Spell	Strong Magic Shield
-Magic Shield
-Vinheim Dragon School
-Oolacile
-Vinheim
-Vinheim Dragon School
-Vinheim
-the Dragon School
-first
-Spell	Repair
-Repair Powder
-Spell	Fall Control
-Vinheim Dragon School
-Hush
-Vinheim
-Hidden Body
-New Londo Sacrifice
-Yulva
-one
-the Sealers of New Londo
-One
-New Londo's
-Blighttown
-Logan
-Seath the Scaleless
-Seath the Scaleless
-Big Hat
-Dark Orb
-Dark Orbs
-Dark Fog
-Dark Fog
-Abyss
-the Great Swamp
-Pyromancy
-Fireball
-Ultimate
-Salaman
-Pyromancer
-the Great Fireball
-Quelana
-Izalith
-Primal
-Quelana
-Izalith
-the Daughters of Chaos
-Spell	Fire Surge
-Pyromancy
-the Great Swamp
-the Great Swamp
-one
-Spell	Fire Whip
-Quelana
-Izalith
-Combustion
-One
-pyromancies
-Pyromancy
-Eingyi
-Eingyi
-Eingyi
-Eingyi
-the Great Swamp
-One
-Pyromancy
-the Great Swamp
-the Great Swamp
-one
-Pyromancy
-Carmina
-Pyromancy
-Carmina
-Salaman
-Pyromancer
-Quelana
-Izalith
-Spell	Power
-Pyromancy
-Carmina
-HP
-eons
-Art of the Flame of Chaos
-the Witch of Izalith
-The Flame of Chaos
-Art of the Flame of Chaos
-the Witch of Izalith
-the Flame of Chaos
-Art of the Flame of Chaos
-the Witch of Izalith
-the Daughters of Chaos
-HP
-HP
-HP
-Gwynevere
-Gradual HP
-Sun
-Gwynevere
-first
-Gravelord Nito
-Giant Gravelord swords jut
-the Giant Catacombs
-first
-Gravelord Nito
-Giant Gravelord swords jut
-the Greatsword Dance
-Gravelord
-the Way of White
-The Way of White
-Spell	Force
-Force
-Force
-Force
-Spell	Emit Force
-Outland
-the Way of White
-Force
-the God of War
-Gwyn
-Gwyn
-Gwyn
-Bishop Havel
-Gwyn
-Seath the Scaleless
-Spell	Karmic Justice
-Miracle of the black-haired
-Velka
-Goddess Velka
-Outland
-the Way of White
-Velka
-Velka
-the Goddess of Sin
-Gwyn
-Sun
-Gwyndolin
-Gwyn
-Darkmoon
-Darkmoon
-Weapon	Parrying Dagger
-Carim
-New Londo
-One
-one
-Priscilla
-the Dragon Crossbreed
-Ariamis
-Straight Sword Attack
-Straight Sword Attack
-Weapon	Balder Side Sword
-Balder
-Balder
-Knight King Rendal
-Solaire
-Astora
-Darkwraith Kirk
-Str
-Anor Londo
-Weapon	Astora's Straight Sword
-one
-Astora
-Four
-New Londo
-Four
-Darkwraiths
-darkswords
-one
-drake
-two
-tight quarters
-Weapon	Claymore	Weapon
-two
-Sen's Fortress
-Weapon	Flamberge
-Sen's Fortress
-Weapon	Stone Greatsword	Weapon
-two
-Weapon	Greatsword of Artorias
-wolf Sif
-Artorias
-Artorias
-Darkwraiths
-wolf Sif
-Artorias
-Artorias
-Darkwraiths
-Gwyn
-Gwyn
-Moonlight Greatsword	"Weapon type:
-one
-Seath the Scaleless
-Weapon	Greatsword of Artorias
-wolf Sif
-Artorias
-Artorias
-Abyss
-Gwyn
-Gwyn
-Ultra Greatsword Attack
-One
-two
-Ultra Greatsword Attack
-the Knights Berenike
-Black Iron Tarkus
-Ultra Greatsword Attack
-Capra
-Ultra Greatsword Attack
-one
-Ash Lake
-two
-Ultra Greatsword Attack
-Curved Sword Attack
-Curved Sword Attack
-Curved Sword Attack
-Earl of Carim
-Curved Sword Attack
-New Londo
-One
-Curved Sword Attack
-Anor Londo
-Quelaag
-Furysword	"
-Curved Sword Attack
-Quelaag
-the Witch of Izalith
-Quelaag
-Imbued
-HP
-Slash Giant
-Eastern
-Katana
-Nata
-Gravelord Nito
-first
-Eastern
-Uchigatana
-Eastern
-Katana
-Eastern
-Katana
-Iaijutsu
-Quelaag
-the Witch of Izalith
-Quelaag
-Weapon	Mail Breaker
-Thrusting Sword Attack
-Thrust Standard
-Thrusting Sword Attack
-one
-Thrusting Sword Attack
-one
-Velka
-Rapier
-Thrusting Sword Attack
-Velka
-Thrusting Sword Attack
-Ricard
-North
-One
-one
-One
-the Way of White
-The Crescent Axe
-Weapon	Golem Axe
-Sen's Fortress
-Anor Londo
-one
-Weapon	Gargoyle Tail Axe
-Anor Londo
-Weapon	Greataxe
-greataxe
-Taurus
-one
-Weapon	Club
-one
-one
-one
-One
-Pickaxe
-burg
-Andre of Astora
-the Old Church
-Anor Londo
-Weapon	Hammer of Vamos
-Vamos
-Catacombs
-Weapon	Great Club	"Weapon type:
-the Way of White
-North Undead Asylum
-Havel
-Weapon	Large Club	"Weapon type:
-Blighttown
-Smough
-Anor Londo
-Smough
-the Four Knights
-Caestus
-Caestus
-Weapon	Claw
-three
-Eastern
-Sen's Fortress
-Anor Londo
-Kaathe
-cramped quarters
-Batwing
-Anor Londo
-Channeler
-Trident	"Weapon type:
-Thrust Trident
-Seath the Scaleless
-Anor Londo
-Weapon	Pike
-Thrust Cross
-Ornstein
-Dragonslayer
-Anor Londo
-Two
-Moonlight Butterfly Horn
-Thrust Weapon
-the Darkroot Garden
-Thrust Cross
-Ornstein
-Dragonslayer
-Anor Londo
-Two
-Halberd Attack
-Halberd
-two
-one
-Weapon	Giant's
-Halberd
-Halberd Attack
-Anor Londo
-Halberd Attack
-One
-Weapon	Gargoyle's
-Halberd	Weapon
-Halberd Attack
-Halberd	Weapon
-Halberd Attack
-Slash Halberd
-Weapon	Lucerne
-Halberd Attack
-Lucerne
-Halberd Attack
-Slash Halberd
-one
-one
-Halberd Attack
-Lifehunt Scythe
-Halberd Attack
-Priscilla
-the Painted World of Ariamis
-Priscilla
-Weapon	Longbow	Weapon
-Pharis
-Greatbow Attack
-Dragonslayers
-Hawkeye Gough
-one
-Gwyn
-Four
-Knights
-Darkmoon
-Anor Londo
-Moonlight Arrows
-Equip
-Equip
-Weapon	Avelyn
-Eidas
-Carim
-the Sniper Crossbow
-Vinheim Dragon School
-Equip
-Attune
-Beatrice
-Vinheim
-age-old
-Weapon	Tin Banishment Catalyst
-Thrust Catalyst
-New Londo
-Darkwraiths
-Weapon	Logan's
-the Vinheim sorcerers
-Logan
-one
-Weapon	Tin Darkmoon Catalyst
-Darkmoon
-Anor Londo
-Gwyndolin
-Gwyn
-Moon
-Oolacile
-Thrust Catalyst
-Logan
-Izalith
-The Demon Firesage
-first
-the Witch of Izalith
-the Chaos Flame
-Pyromancy Flame Attack
-Great Swamp
-Pyromancers
-Equip
-Attune
-pyromancies
-Pyromancy Flame Attack
-Pyromancy
-Quelana
-Izalith
-Attune
-Talisman
-Attune
-Thorolund
-Weapon	Ivory Talisman
-Ivory Talismans
-Talisman	Dragon Talismans
-Weapon	Sunlight Talisman	"Weapon
-Solaire
-Astora
-Solaire
-Solaire
-Darkmoon Blade
-Velka
-Velka
-Catacombs
-Droops
-Giants
-Nito
-Weapon	Target Shield
-Four
-Parry
-Weapon	Plank Shield
-Caduceus
-Weapon	Crystal Ring Shield
-the Darkroot Garden
-Imbued
-Seath the Scaleless
-100%
-Balder
-Balder
-Knight King Rendal
-Astora
-One
-Astora
-One
-East
-Deflects
-Darkwraith Kirk
-Knight
-Solaire
-Solaire
-the Silver Knights of Anor Londo
-The Silver Knights
-Anor Londo
-the Black Knights
-Lordan
-Thrust Shield
-Catarina
-Weapon	Red and White Round Shield
-Caduceus
-Weapon	Gargoyle's
-100%
-Greatshield Attack
-greatshield
-Greatshield Attack
-Knight Berenike
-Greatshield Attack
-Greatshield
-Anor Londo
-Marcasite
-Greatshield Attack
-greatshield
-the Darkroot Garden
-the Stone Knight
-The Stone Knight
-Greatshield Attack
-Havel the Rock
-greatshield
-Havel
-the Dragon Tooth
-Weapon	Bonewheel Shield
-Greatshield Attack
-Strike Giant
-Half
-greatshield
-Artorias
-Greatshield Attack
-wolf Sif
-Artorias
-Arrow Attack
-Arrow Attack
-Arrow Attack
-Arrow Attack
-Thrust Arrows
-Arrow Attack
-Thrust Arrow
-one
-Moonlight Arrow	"Weapon type:
-Arrow Attack
-Thrust Arrow
-Gwyn
-Moonlight Arrows
-Arrow Attack
-Thrust Giant
-Hawkeye Gough
-Dragonslayers
-Dragonslayer Arrows
-the Dragonslayer Greatbow
-Hawkeye Gough
-one
-Gwyn
-Four
-Knights
-Greatbow
-the Light Crossbow
-Thrust Red
-the Sniper Crossbow
-Weapon	Wood Bolt
-Anor Londo
-Weapon	Bolt	
-Weapon	Effigy Shield
-Gravelord Nito
-first
-Weapon	Sanctus
-the Way of White
-HP
-Weapon	Bloodshield
-bloodshield
-Greatshield Attack
-Tarkus
-Knight Berenike's
-Curved Sword Attack
-Blade Ciaran
-one
-Gwyn
-Four
-Knights
-Ciaran
-Blade Ciaran
-Gwyn
-Four
-Knights
-first
-the Gold Tracer
-Gwyn
-Knight Artorias
-Abyss
-Abyss
-Greatshield Attack
-Knight Artorias
-Abyss
-Artorias
-Abyss
-Sif
-Weapon	Stone Greataxe
-Sanctuary
-greataxe
-Four
-Four
-Sanctuary
-four
-Manus
-Abyss
-the Tin Crystallization Catalyst
-the Sanctuary Guardian
-greataxe
-one
-one
-Kalameet
-Greatbow Attack
-Greatbow
-Hawkeye Gough
-Gwyn
-Four
-Knights
-Dragonslayers
-Gough
+['ItemType\tName', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Knights of Catarina', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Knights of Catarina', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Knights of Catarina', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Knights of Catarina', 'ORG', 'Companies, agencies, institutions, etc.']
+['Paladin Helm', 'PERSON', 'People, including fictional']
+['Leeroy', 'PERSON', 'People, including fictional']
+['Paladin', 'PERSON', 'People, including fictional']
+['Catacombs', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Way of White', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['first', 'ORDINAL', '"first", "second", etc.']
+['Grant', 'PERSON', 'People, including fictional']
+['Sanctus', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leeroy', 'PERSON', 'People, including fictional']
+['first', 'ORDINAL', '"first", "second", etc.']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Paladin Armor\t"Armor of Leeroy', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Paladin', 'PERSON', 'People, including fictional']
+['Catacombs', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Way of White', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['first', 'ORDINAL', '"first", "second", etc.']
+['Grant', 'PERSON', 'People, including fictional']
+['Sanctus', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leeroy', 'PERSON', 'People, including fictional']
+['first', 'ORDINAL', '"first", "second", etc.']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Paladin Gauntlets', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gauntlets of', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Leeroy', 'PERSON', 'People, including fictional']
+['Paladin', 'PERSON', 'People, including fictional']
+['Catacombs', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Way of White', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['first', 'ORDINAL', '"first", "second", etc.']
+['Grant', 'PERSON', 'People, including fictional']
+['Sanctus', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leeroy', 'PERSON', 'People, including fictional']
+['first', 'ORDINAL', '"first", "second", etc.']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of Leeroy', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Paladin', 'PERSON', 'People, including fictional']
+['Catacombs', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Way of White', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['first', 'ORDINAL', '"first", "second", etc.']
+['Grant', 'PERSON', 'People, including fictional']
+['Sanctus', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leeroy', 'PERSON', 'People, including fictional']
+['first', 'ORDINAL', '"first", "second", etc.']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Mask of the Darkwraiths', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Darkwraith', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armor of the Darkwraiths', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Lifedrain', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Gauntlets of the Darkwraiths', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Lifedrain', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Armour\tDark Leggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of the Darkwraiths', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Lifedrain', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Hood', 'PERSON', 'People, including fictional']
+['Armour\tBrigand Gauntlets\tGauntlets', 'ORG', 'Companies, agencies, institutions, etc.']
+['Eastern', 'NORP', 'Nationalities or religious or political groups']
+['Eastern', 'NORP', 'Nationalities or religious or political groups']
+['Eastern', 'NORP', 'Nationalities or religious or political groups']
+['Armour\tShadow Leggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['Eastern', 'NORP', 'Nationalities or religious or political groups']
+['Armour\tBlack Iron Helm', 'ORG', 'Companies, agencies, institutions, etc.']
+['Helm of Black Iron Tarkus', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Tarkus', 'PERSON', 'People, including fictional']
+['Armour\tBlack Iron Armor', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armor of Black Iron Tarkus', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Tarkus', 'PERSON', 'People, including fictional']
+['Armour\tBlack Iron Gauntlets', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets of Black Iron Tarkus', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Tarkus', 'PERSON', 'People, including fictional']
+['Armour\tBlack Iron Leggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of Black Iron Tarkus', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Tarkus', 'PERSON', 'People, including fictional']
+['Smough', 'GPE', 'Countries, cities, states']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+["Armour\tSmough's", 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+["Armour\tSmough's", 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets of Smough', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+["Armour\tSmough's", 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of Smough', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Helm of the Channelers', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Seath the Scaleless', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['six', 'CARDINAL', 'Numerals that do not fall under another type']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+['Armour\tRobe', 'ORG', 'Companies, agencies, institutions, etc.']
+['Robe of the Channelers', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Seath the Scaleless', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Gauntlets of the Channelers', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Seath the Scaleless', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Channelers', 'GPE', 'Countries, cities, states']
+['Seath the Scaleless', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Helm of Lautrec', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Fina', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armor of Lautrec the Embraced', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Fina', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets of Lautrec the Embraced', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Fina', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tLeggings of Favor', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of Lautrec', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Fina', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tHelm', 'ORG', 'Companies, agencies, institutions, etc.']
+['Zena', 'ORG', 'Companies, agencies, institutions, etc.']
+['Domhnall', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+['Armour\tArmor of the Glorious', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Zena', 'ORG', 'Companies, agencies, institutions, etc.']
+['Domhnall', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Zena', 'ORG', 'Companies, agencies, institutions, etc.']
+['Domhnall', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Armour\tBoots of the Explorer', 'ORG', 'Companies, agencies, institutions, etc.']
+['Zena', 'ORG', 'Companies, agencies, institutions, etc.']
+['Domhnall', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Armour\tStone Helm', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Stone Knight', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Darkroot Garden', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['The Stone Knight', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tStone Armor', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Stone Knight', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Darkroot Garden', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['The Stone Knight', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tStone Gauntlets', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Stone Knight', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Darkroot Garden', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['The Stone Knight', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tStone Leggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Stone Knight', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Darkroot Garden', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['The Stone Knight', 'ORG', 'Companies, agencies, institutions, etc.']
+['Helm', 'PERSON', 'People, including fictional']
+['Crystalline Armor\t"Armor', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gauntlets', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Armour\tMask of the Sealer', 'ORG', 'Companies, agencies, institutions, etc.']
+['Mask of the sorcerers', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+['three', 'CARDINAL', 'Numerals that do not fall under another type']
+['New Londo', 'GPE', 'Countries, cities, states']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Armour\tMask of', 'ORG', 'Companies, agencies, institutions, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Goddess of Sin', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Armour\tBlack Cleric Robe\t"Robe', 'ORG', 'Companies, agencies, institutions, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Goddess of Sin', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tBlack Manchette', 'ORG', 'Companies, agencies, institutions, etc.']
+['Manchette', 'PERSON', 'People, including fictional']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Goddess of Sin', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tBlack Tights\t"Tights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Goddess of Sin', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tIron Helm', 'ORG', 'Companies, agencies, institutions, etc.']
+['Solaire', 'PERSON', 'People, including fictional']
+['Armour\tArmor of the Sun\t"Armor of Solaire', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Sun', 'ORG', 'Companies, agencies, institutions, etc.']
+['Solaire', 'PERSON', 'People, including fictional']
+['Solaire', 'PERSON', 'People, including fictional']
+['Armour\tIron Bracelet', 'ORG', 'Companies, agencies, institutions, etc.']
+['Solaire', 'PERSON', 'People, including fictional']
+['Armour\tIron Leggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of Solaire', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Solaire', 'PERSON', 'People, including fictional']
+['Armour\tChain Helm', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['Armour\tChain Leggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Helm', 'PERSON', 'People, including fictional']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tCleric Leggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tHelm of Thorns', 'ORG', 'Companies, agencies, institutions, etc.']
+['Knight of Thorns', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+['Kirk', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tArmor of Thorns', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Armor of Kirk', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Knight of Thorns', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+['Kirk', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets of Kirk', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Knight of Thorns', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+['Kirk', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tLeggings of Thorns', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of Kirk', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Knight of Thorns', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+['Kirk', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Cloak', 'PERSON', 'People, including fictional']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Gauntlets', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Hood', 'PERSON', 'People, including fictional']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Robe', 'PERSON', 'People, including fictional']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Manchette', 'PERSON', 'People, including fictional']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Armour\tHeavy Boots\t"Boots', 'ORG', 'Companies, agencies, institutions, etc.']
+["Armour\tPharis's Hat", 'ORG', 'Companies, agencies, institutions, etc.']
+['Pharis', 'PERSON', 'People, including fictional']
+['Pharis', 'GPE', 'Countries, cities, states']
+['Hawkeye Gough', 'PERSON', 'People, including fictional']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Armour\tLeather Gloves\tGloves', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tLeather Boots\tBoots', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tPainting Guardian Hood\t"', 'ORG', 'Companies, agencies, institutions, etc.']
+['Hood', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['the Great Paintings of Ariamis for ages', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Armour\tPainting Guardian Robe', 'ORG', 'Companies, agencies, institutions, etc.']
+['Robe', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['the Great Paintings of Ariamis for ages', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Armour\tPainting Guardian Gloves', 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['the Great Paintings of Ariamis for ages', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Armour\tPainting Guardian', 'ORG', 'Companies, agencies, institutions, etc.']
+['Waistcloth\t"', 'PERSON', 'People, including fictional']
+['Waistcloth', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['the Great Paintings of Ariamis for ages', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ornstein', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Ornstein', 'PERSON', 'People, including fictional']
+['the Four Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armor of the dragonslayer', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ornstein', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Ornstein', 'PERSON', 'People, including fictional']
+['the Four Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets of the dragonslayer', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ornstein', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Ornstein', 'PERSON', 'People, including fictional']
+['the Four Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of the dragonslayer', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ornstein', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Ornstein', 'PERSON', 'People, including fictional']
+['the Four Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Eastern', 'NORP', 'Nationalities or religious or political groups']
+['East', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Eastern Land', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['East', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Eastern', 'NORP', 'Nationalities or religious or political groups']
+['East', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Eastern', 'NORP', 'Nationalities or religious or political groups']
+['East', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['the Xanthous King Jeremiah', 'PERSON', 'People, including fictional']
+['the Xanthous King Jeremiah', 'PERSON', 'People, including fictional']
+['the Xanthous King Jeremiah', 'PERSON', 'People, including fictional']
+['Xanthous Waistcloth', 'PERSON', 'People, including fictional']
+['the Xanthous King Jeremiah', 'PERSON', 'People, including fictional']
+['Armour\tThief Mask', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Armour\tBlack Leather Armor', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tBlack Leather Gloves', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tBlack Leather Boots', 'ORG', 'Companies, agencies, institutions, etc.']
+['Thorolund', 'GPE', 'Countries, cities, states']
+['Lordran', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Robe', 'PERSON', 'People, including fictional']
+['the Way of White', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Armour\tTraveling Gloves', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Way of White', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Black Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Fire', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armor of the Black Knights', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Fire', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets of the Black Knights', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Fire', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of the Black Knights', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Dusk, Princess of Oolacile', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Oolacile', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Oolacile', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Oolacile', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Armour\tWitch Hat', 'ORG', 'Companies, agencies, institutions, etc.']
+['Beatrice', 'ORG', 'Companies, agencies, institutions, etc.']
+['Dragon School', 'ORG', 'Companies, agencies, institutions, etc.']
+['Beatrice', 'ORG', 'Companies, agencies, institutions, etc.']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Cloak of the rogue witch', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Beatrice', 'ORG', 'Companies, agencies, institutions, etc.']
+['Dragon School', 'ORG', 'Companies, agencies, institutions, etc.']
+['Beatrice', 'ORG', 'Companies, agencies, institutions, etc.']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Armour\tWitch Gloves', 'ORG', 'Companies, agencies, institutions, etc.']
+['Beatrice', 'ORG', 'Companies, agencies, institutions, etc.']
+['Dragon School', 'ORG', 'Companies, agencies, institutions, etc.']
+['Beatrice', 'ORG', 'Companies, agencies, institutions, etc.']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Skirt of the rogue witch', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Beatrice', 'ORG', 'Companies, agencies, institutions, etc.']
+['Dragon School', 'ORG', 'Companies, agencies, institutions, etc.']
+['Beatrice', 'ORG', 'Companies, agencies, institutions, etc.']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Helm', 'PERSON', 'People, including fictional']
+['Astora', 'PERSON', 'People, including fictional']
+['the Undead Asylum', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Astora', 'PERSON', 'People, including fictional']
+['the Undead Asylum', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Astora', 'PERSON', 'People, including fictional']
+['the Undead Asylum', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Astora', 'PERSON', 'People, including fictional']
+['the Undead Asylum', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Hood of an', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Armour\tWanderer Coat', 'ORG', 'Companies, agencies, institutions, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Armour\tWanderer Boots\tBoots of an', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tMage Smith Hat', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Armour\tMage Smith Coat', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Gauntlets', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Armour\tMage Smith Boots\t"Boots', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Armour\tBig Hat', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gigantic', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Logan', 'PERSON', 'People, including fictional']
+['Hat.\\', 'ORG', 'Companies, agencies, institutions, etc.']
+['Logan', 'PERSON', 'People, including fictional']
+['Robe', 'PERSON', 'People, including fictional']
+['Big Hat Logan', 'ORG', 'Companies, agencies, institutions, etc.']
+['his apprentice days', 'DATE', 'Absolute or relative dates or periods']
+['Dragon School', 'ORG', 'Companies, agencies, institutions, etc.']
+['Logan', 'PERSON', 'People, including fictional']
+['Armour\tTraveling Gloves\tGloves', 'ORG', 'Companies, agencies, institutions, etc.']
+['Big Hat Logan', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tTraveling Boots\tBoots', 'ORG', 'Companies, agencies, institutions, etc.']
+['Big Hat Logan', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tDingy Hood', 'ORG', 'Companies, agencies, institutions, etc.']
+['Worn by the Fire Keeper at Firelink Shrine', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the years', 'DATE', 'Absolute or relative dates or periods']
+['Armour\tDingy Robe', 'ORG', 'Companies, agencies, institutions, etc.']
+['Worn by the Fire Keeper at Firelink Shrine', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the years', 'DATE', 'Absolute or relative dates or periods']
+['Armour\tDingy Gloves', 'ORG', 'Companies, agencies, institutions, etc.']
+['Worn by the Fire Keeper at Firelink Shrine', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the years', 'DATE', 'Absolute or relative dates or periods']
+['Worn by the Fire Keeper at Firelink Shrine', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Armour\tMaiden Gloves', 'ORG', 'Companies, agencies, institutions, etc.']
+['White', 'PERSON', 'People, including fictional']
+['the Silver Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Fire', 'ORG', 'Companies, agencies, institutions, etc.']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+['The Silver Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armor of the Silver Knights', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Fire', 'ORG', 'Companies, agencies, institutions, etc.']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+['The Silver Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets of the Silver Knights', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Fire', 'ORG', 'Companies, agencies, institutions, etc.']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+['The Silver Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of the Silver Knights', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Fire', 'ORG', 'Companies, agencies, institutions, etc.']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+['The Silver Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tHavel\'s Helm\t"Helm', 'ORG', 'Companies, agencies, institutions, etc.']
+['Havel', 'PERSON', 'People, including fictional']
+['Havel', 'PERSON', 'People, including fictional']
+["Armour\tHavel's Armor", 'ORG', 'Companies, agencies, institutions, etc.']
+['Havel', 'PERSON', 'People, including fictional']
+['Havel', 'PERSON', 'People, including fictional']
+["Armour\tHavel's", 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Havel', 'PERSON', 'People, including fictional']
+['Havel', 'PERSON', 'People, including fictional']
+["Armour\tHavel's Leggings", 'ORG', 'Companies, agencies, institutions, etc.']
+['Havel', 'PERSON', 'People, including fictional']
+['Havel', 'PERSON', 'People, including fictional']
+['Helm of the Darkmoon Knightess', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Fire Keeper', 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Darkmoon', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armor of the Darkmoon Knightess', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Fire Keeper', 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Darkmoon', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets of the Darkmoon Knightess', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Fire Keeper', 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Darkmoon', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tBrass Leggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of the Darkmoon Knightess', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Fire Keeper', 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Darkmoon', 'ORG', 'Companies, agencies, institutions, etc.']
+['Worn', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Quelana', 'PERSON', 'People, including fictional']
+['Izalith', 'PERSON', 'People, including fictional']
+['Daughter of Chaos', 'ORG', 'Companies, agencies, institutions, etc.']
+['Worn', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Quelana', 'PERSON', 'People, including fictional']
+['Izalith', 'PERSON', 'People, including fictional']
+['Daughter of Chaos', 'ORG', 'Companies, agencies, institutions, etc.']
+['Worn', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Quelana', 'PERSON', 'People, including fictional']
+['Izalith', 'PERSON', 'People, including fictional']
+['Daughter of Chaos', 'ORG', 'Companies, agencies, institutions, etc.']
+['Worn', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Quelana', 'PERSON', 'People, including fictional']
+['Izalith', 'PERSON', 'People, including fictional']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['the Daughters of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Head of the Iron Golem', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+["Sen's Fortress", 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Armour\tGolem Armor', 'ORG', 'Companies, agencies, institutions, etc.']
+["Sen's Fortress", 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+["Sen's Fortress", 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Armour\tGolem Leggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['Legs of the Iron Golem', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+["Sen's Fortress", 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Helm', 'PERSON', 'People, including fictional']
+["Armour\tSoldier's Gloves\tSoldier's Gloves", 'ORG', 'Companies, agencies, institutions, etc.']
+['Waistcloth\tWaistcloth', 'PERSON', 'People, including fictional']
+['Armour\tSteel Helm', 'ORG', 'Companies, agencies, institutions, etc.']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tSteel Armor', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armor of the Knights of Berenike', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tSteel Gauntlets', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets of the Knights of Berenike', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tSteel Leggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of the Knights of Berenike', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+["Armour\tThief's Gloves\tThief's Gloves\nArmour\tHollow Thief's Tights\tTights", 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tBalder Helm', 'PERSON', 'People, including fictional']
+['Helm', 'PERSON', 'People, including fictional']
+['Balder', 'PERSON', 'People, including fictional']
+['Balder', 'PERSON', 'People, including fictional']
+['Armour\tBalder Armor', 'ORG', 'Companies, agencies, institutions, etc.']
+['Balder', 'PERSON', 'People, including fictional']
+['Balder', 'PERSON', 'People, including fictional']
+['Gauntlets', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Balder', 'PERSON', 'People, including fictional']
+['Balder', 'PERSON', 'People, including fictional']
+['Armour\tBalder Leggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['Balder', 'PERSON', 'People, including fictional']
+['Balder', 'PERSON', 'People, including fictional']
+['Helm', 'PERSON', 'People, including fictional']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Waistcloth\tWaistcloth', 'PERSON', 'People, including fictional']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Armor of the giant sentinels', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Gauntlets of the', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Armour\tGiant Leggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of the giant sentinels', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Darkmoon', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gwyndolin', 'PERSON', 'People, including fictional']
+['Robe of the Dark Sun Gwyndolin', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Gwyndolin', 'GPE', 'Countries, cities, states']
+['Moonlight Gloves\t"Gloves of the Dark Sun Gwyndolin', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Gwyndolin', 'GPE', 'Countries, cities, states']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Gwyndolin', 'GPE', 'Countries, cities, states']
+['Crown of Gwyn', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['First', 'ORDINAL', '"first", "second", etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Armour\tRobe', 'ORG', 'Companies, agencies, institutions, etc.']
+['Robe of Gwyn', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['First', 'ORDINAL', '"first", "second", etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Armour\tBracelet of the', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['First', 'ORDINAL', '"first", "second", etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Armour\tAnklet of', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['First', 'ORDINAL', '"first", "second", etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Two', 'CARDINAL', 'Numerals that do not fall under another type']
+['Catacombs', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Vamos', 'PERSON', 'People, including fictional']
+['Armour\tMask', 'ORG', 'Companies, agencies, institutions, etc.']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['three', 'CARDINAL', 'Numerals that do not fall under another type']
+['Pinwheel', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gravelord', 'PERSON', 'People, including fictional']
+['Catacombs', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Armour\tMask of the Mother', 'ORG', 'Companies, agencies, institutions, etc.']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['three', 'CARDINAL', 'Numerals that do not fall under another type']
+['Pinwheel', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gravelord', 'PERSON', 'People, including fictional']
+['Catacombs', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tMask of the Child', 'ORG', 'Companies, agencies, institutions, etc.']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['three', 'CARDINAL', 'Numerals that do not fall under another type']
+['Pinwheel', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gravelord', 'PERSON', 'People, including fictional']
+['Catacombs', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Fang Boar', 'PERSON', 'People, including fictional']
+['Armour\tGargoyle Helm', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Undead Church', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tBlack Sorcerer Hat', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Cloak', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Gauntlets', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Armour\tBlack Sorcerer Boots\t"Boots', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Armour\tElite Cleric Helm\t"Helm', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tElite Cleric Armor', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tElite Cleric Gauntlets', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tElite Cleric Leggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tHelm', 'ORG', 'Companies, agencies, institutions, etc.']
+['Helm of Artorias the Abysswalker', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tArmor of', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Armor of Artorias the Abysswalker', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Artorias', 'PERSON', 'People, including fictional']
+['Gauntlets of Artorias the Abysswalker', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Armour\tLeggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of Artorias the Abysswalker', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Armour\tPorcelain Mask', 'ORG', 'Companies, agencies, institutions, etc.']
+["Mask of the Lord's Blade Ciaran", 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ciaran', 'PERSON', 'People, including fictional']
+['Blade Robe', 'PERSON', 'People, including fictional']
+["Robe of the Lord's Blade Ciaran", 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Blade Gloves', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Blade Ciaran', 'PERSON', 'People, including fictional']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Blade Waistcloth\t"', 'PERSON', 'People, including fictional']
+['Waistcloth', 'PERSON', 'People, including fictional']
+['Blade Ciaran', 'PERSON', 'People, including fictional']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Waistcloth', 'PERSON', 'People, including fictional']
+["Armour\tGough's Helm", 'ORG', 'Companies, agencies, institutions, etc.']
+['Helm of Hawkeye Gough', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Hawkeye Gough', 'PERSON', 'People, including fictional']
+['Gough', 'PERSON', 'People, including fictional']
+["Armour\tGough's Armor", 'ORG', 'Companies, agencies, institutions, etc.']
+['Armor of Hawkeye Gough', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+["Armour\tGough's Gauntlets", 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets of Hawkeye Gough', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Silver Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+["Armour\tGough's Leggings", 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of Hawkeye Gough', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Silver Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tGuardian Helm', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armour\tGuardian Armor', 'ORG', 'Companies, agencies, institutions, etc.']
+['Armor of the stone knights', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Armour\tGuardian Gauntlets', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gauntlets of the stone knights', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Armour\tGuardian Leggings', 'ORG', 'Companies, agencies, institutions, etc.']
+['Leggings of the stone knights', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Armour\tSnickering Top Hat', 'ORG', 'Companies, agencies, institutions, etc.']
+['Marvellous Chester', 'PERSON', 'People, including fictional']
+['Chester', 'PERSON', 'People, including fictional']
+['Marvellous Chester', 'PERSON', 'People, including fictional']
+["Armour\tChester's Gloves", 'ORG', 'Companies, agencies, institutions, etc.']
+['Marvellous Chester', 'PERSON', 'People, including fictional']
+['Marvellous Chester', 'PERSON', 'People, including fictional']
+['the Dark of Manus', 'ORG', 'Companies, agencies, institutions, etc.']
+['Abyss', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Dark of Manus', 'ORG', 'Companies, agencies, institutions, etc.']
+['Abyss', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Dragon Torso Stone', 'PERSON', 'People, including fictional']
+['Dragon Torso Stone', 'PERSON', 'People, including fictional']
+['Dragon Torso Stone', 'PERSON', 'People, including fictional']
+['Egg Vermifuge', 'ORG', 'Companies, agencies, institutions, etc.']
+['the White Sign Soapstone', 'ORG', 'Companies, agencies, institutions, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+['The Red Sign Soapstone', 'ORG', 'Companies, agencies, institutions, etc.']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+['Kaathe', 'GPE', 'Countries, cities, states']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Item\tBook of the Guilty\t"', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['The Goddess of Sin Velka', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Eyes of Death', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Kaathe', 'GPE', 'Countries, cities, states']
+['the Daughters of Chaos.', 'ORG', 'Companies, agencies, institutions, etc.']
+['Eingyi', 'ORG', 'Companies, agencies, institutions, etc.']
+['Eingyi', 'ORG', 'Companies, agencies, institutions, etc.']
+['Eingyi', 'ORG', 'Companies, agencies, institutions, etc.']
+['Book of the Guilty', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Reprisal', 'ORG', 'Companies, agencies, institutions, etc.']
+['Blades of the Darkmoon', 'ORG', 'Companies, agencies, institutions, etc.']
+['Keeper', 'ORG', 'Companies, agencies, institutions, etc.']
+['a Fire Keeper', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Fire Keeper', 'ORG', 'Companies, agencies, institutions, etc.']
+['The Black Eye', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Gods,', 'GPE', 'Countries, cities, states']
+['the Blade of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Black Eye', 'ORG', 'Companies, agencies, institutions, etc.']
+['Shiva', 'PERSON', 'People, including fictional']
+['one day', 'DATE', 'Absolute or relative dates or periods']
+['Hollow', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Estus', 'ORG', 'Companies, agencies, institutions, etc.']
+['Fills HP', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['The Estus Flasks', 'ORG', 'Companies, agencies, institutions, etc.']
+['Keeper', 'ORG', 'Companies, agencies, institutions, etc.']
+['Artorias', 'PERSON', 'People, including fictional']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Artorias', 'PERSON', 'People, including fictional']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Elizabeth', 'PERSON', 'People, including fictional']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['Goddess Gwynevere', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['The Goddess of Sunlight Gwynevere', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Sunlight Gwyn', 'PERSON', 'People, including fictional']
+['Bloodred Moss Clump', 'PERSON', 'People, including fictional']
+['Potently', 'PERSON', 'People, including fictional']
+['Carim', 'PERSON', 'People, including fictional']
+['The Purging Stone', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Flame of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Hollows', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+["Lloyd's Talisman", 'ORG', 'Companies, agencies, institutions, etc.']
+['Talisman', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Lloyd', 'PERSON', 'People, including fictional']
+["Lloyd's", 'ORG', 'Companies, agencies, institutions, etc.']
+['1', 'CARDINAL', 'Numerals that do not fall under another type']
+['seven', 'CARDINAL', 'Numerals that do not fall under another type']
+['Binoculars', 'PERSON', 'People, including fictional']
+['Astora', 'PERSON', 'People, including fictional']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Sin Annul', 'PERSON', 'People, including fictional']
+['Goddess Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['one day', 'DATE', 'Absolute or relative dates or periods']
+['the Blades of the Darkmoon', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Dark Sun', 'ORG', 'Companies, agencies, institutions, etc.']
+['Sunlight Medal', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Sun', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Warrior of Sunlight', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Sun', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Warrior of Sunlight', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['only one', 'CARDINAL', 'Numerals that do not fall under another type']
+['only one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Old Man McLoyf', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Knight King Rendal', 'ORG', 'Companies, agencies, institutions, etc.']
+['Lloyd', 'PERSON', 'People, including fictional']
+['Peculiar Doll', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Dried Finger\t"', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Soul of the Ash Maiden', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Ash Maiden', 'ORG', 'Companies, agencies, institutions, etc.']
+['Soul of the Darkmoon Knightess', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Fire Keeper', 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+["A Fire Keeper's", 'ORG', 'Companies, agencies, institutions, etc.']
+['Soul of a Daughter of Chaos, Fire Keeper', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Quelaag', 'ORG', 'Companies, agencies, institutions, etc.']
+['Soul of a long-', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Fire Keeper', 'ORG', 'Companies, agencies, institutions, etc.']
+['Each Fire Keeper', 'ORG', 'Companies, agencies, institutions, etc.']
+['Estus Flasks', 'ORG', 'Companies, agencies, institutions, etc.']
+['Estus', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['Item\tSoul of a Lost Undead', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Soul of a', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Hollow', 'PERSON', 'People, including fictional']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Hollow', 'PERSON', 'People, including fictional']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Item\tSoul of a Nameless Soldier\t"Soul of a nameless', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Hollow', 'PERSON', 'People, including fictional']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Hollow', 'PERSON', 'People, including fictional']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Item\tSoul of a Proud Knight\t"Soul of a', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Hollow', 'PERSON', 'People, including fictional']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Hollow', 'PERSON', 'People, including fictional']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Item\tSoul of a Brave Warrior\t"Soul of a brave Undead', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Hollow', 'PERSON', 'People, including fictional']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Hollow', 'PERSON', 'People, including fictional']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Item\tSoul of a Hero\t"Soul of a hero of legend', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Hollow', 'PERSON', 'People, including fictional']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Item\tSoul of a Great Hero', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Hollow', 'PERSON', 'People, including fictional']
+['Hollow', 'ORG', 'Companies, agencies, institutions, etc.']
+['1', 'CARDINAL', 'Numerals that do not fall under another type']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['2', 'CARDINAL', 'Numerals that do not fall under another type']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['you\\', 'DATE', 'Absolute or relative dates or periods']
+["\\I'm sorry\\", 'ORG', 'Companies, agencies, institutions, etc.']
+['Item\tSoul of Quelaag\t"Soul of Quelaag', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Witch of Izalith', 'ORG', 'Companies, agencies, institutions, etc.']
+['Quelaag', 'ORG', 'Companies, agencies, institutions, etc.']
+['Item\tSoul of Sif\t"Soul of Sif the Great Grey Wolf', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Artorias the Abysswalker', 'ORG', 'Companies, agencies, institutions, etc.']
+['Sif', 'PERSON', 'People, including fictional']
+['knightsword', 'ORG', 'Companies, agencies, institutions, etc.']
+['Soul of Gwyn', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Soul of the Gwyn', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['First', 'ORDINAL', '"first", "second", etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+["Sen's Fortress", 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Item\tSoul of Ornstein\t"Soul of Ornstein', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Dragonslayer Knight', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Gwyn', 'PERSON', 'People, including fictional']
+['four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Item\tSoul of the Moonlight Butterfly\t"Soul of the mystical', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Moonlight Butterfly', 'PERSON', 'People, including fictional']
+['the Darkroot Garden', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Seath the Scaleless', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Item\tSoul of Smough\t"Soul of Smough the Executioner', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Item\tSoul of Priscilla\t"Soul of Priscilla the Crossbreed', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ariamis', 'NORP', 'Nationalities or religious or political groups']
+['Item\tSoul of Gwyndolin\t"Soul of Darkmoon Gwyndolin', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Dark Sun', 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Soul of the white winged lion sanctuary watchkeeper', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Abyss', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Guardian', 'ORG', 'Companies, agencies, institutions, etc.']
+['Item\tSoul of Artorias\t"Soul of Lord Gwyn\'s', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Knight Artorias', 'PERSON', 'People, including fictional']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Artorias', 'PERSON', 'People, including fictional']
+['Abyss', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['half', 'CARDINAL', 'Numerals that do not fall under another type']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Item\tSoul of Manus\t"Soul of Manus', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Ember', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Astora', 'GPE', 'Countries, cities, states']
+['+5 std wpn', 'ORG', 'Companies, agencies, institutions, etc.']
+['wpn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ember', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Astora', 'GPE', 'Countries, cities, states']
+['Ember', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Seath the Scaleless', 'ORG', 'Companies, agencies, institutions, etc.']
+['wpn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ember', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Vinheim', 'PERSON', 'People, including fictional']
+['Ember', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Oolacile', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['wpn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ember', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['wpn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ember', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ember', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ember', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Izalith', 'PERSON', 'People, including fictional']
+['Titanite', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Legendary Slabs', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Titanite', 'ORG', 'Companies, agencies, institutions, etc.']
+['Titanite', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Legendary Slabs', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Titanite', 'ORG', 'Companies, agencies, institutions, etc.']
+['Titanite', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Legendary Slabs', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Titanite', 'ORG', 'Companies, agencies, institutions, etc.']
+['Lordran', 'GPE', 'Countries, cities, states']
+['the Legendary Slabs', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Lordran', 'GPE', 'Countries, cities, states']
+['the Legendary Slabs', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Lordran', 'GPE', 'Countries, cities, states']
+['the Legendary Slabs', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Red Titanite Chunk', 'ORG', 'Companies, agencies, institutions, etc.']
+['Lordran', 'GPE', 'Countries, cities, states']
+['the Legendary Slabs', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Legendary Slabs', 'ORG', 'Companies, agencies, institutions, etc.']
+['Legendary Slabs', 'ORG', 'Companies, agencies, institutions, etc.']
+['Legendary Slabs', 'ORG', 'Companies, agencies, institutions, etc.']
+['Red Titanite Slab', 'ORG', 'Companies, agencies, institutions, etc.']
+['Legendary Slabs', 'ORG', 'Companies, agencies, institutions, etc.']
+['today', 'DATE', 'Absolute or relative dates or periods']
+['Slab', 'ORG', 'Companies, agencies, institutions, etc.']
+['Opens', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Undead Burg', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Artorias the Abysswalker', 'PERSON', 'People, including fictional']
+["Sen's Fortress", 'ORG', 'Companies, agencies, institutions, etc.']
+['Archive Tower', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['The Archive Tower', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['"\nItem\tArchive Tower Giant Door Key\t"Key to the giant door', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Archive Tower', 'ORG', 'Companies, agencies, institutions, etc.']
+['Archive Tower', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Key to Blighttown', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Blighttown', 'ORG', 'Companies, agencies, institutions, etc.']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Drake Valley', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['New Londo', 'GPE', 'Countries, cities, states']
+['the Painted World of Ariamis', 'EVENT', 'Named hurricanes, battles, wars, sports events, etc.']
+['North', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['second', 'ORDINAL', '"first", "second", etc.']
+['the North Undead Asylum', 'ORG', 'Companies, agencies, institutions, etc.']
+['The Undead Asylum', 'ORG', 'Companies, agencies, institutions, etc.']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Nearly half', 'CARDINAL', 'Numerals that do not fall under another type']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Firelink Shrine', 'ORG', 'Companies, agencies, institutions, etc.']
+['New Londo', 'GPE', 'Countries, cities, states']
+['second', 'ORDINAL', '"first", "second", etc.']
+['the North Undead Asylum', 'ORG', 'Companies, agencies, institutions, etc.']
+['The Undead Asylum', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Undead Burg', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Hollow', 'PERSON', 'People, including fictional']
+['Archive Tower', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Archive Tower', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Burg', 'PERSON', 'People, including fictional']
+['Soul of Gravelord Nito', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['first', 'ORDINAL', '"first", "second", etc.']
+['This Lord Soul', 'PERSON', 'People, including fictional']
+['the dawn of the Age of Fire', 'TIME', 'Times smaller than a day']
+['Gravelord Nito', 'PERSON', 'People, including fictional']
+['Soul of the Bed of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['This Lord Soul', 'PERSON', 'People, including fictional']
+['the dawn', 'TIME', 'Times smaller than a day']
+['Izalith', 'PERSON', 'People, including fictional']
+['First', 'ORDINAL', '"first", "second", etc.']
+['Soul of one of the Four Kings', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Lord Soul', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the dawn of the Age of Fire', 'TIME', 'Times smaller than a day']
+['Gwyn', 'PERSON', 'People, including fictional']
+['four', 'CARDINAL', 'Numerals that do not fall under another type']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Soul of the albino Seath the Scaleless', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Lord Soul', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the dawn of the Age of Fire', 'TIME', 'Times smaller than a day']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Dukedom', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['the Firelink Altar', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Half', 'CARDINAL', 'Numerals that do not fall under another type']
+['Item\tRepairbox', 'PERSON', 'People, including fictional']
+['Kindling', 'GPE', 'Countries, cities, states']
+['Estus', 'ORG', 'Companies, agencies, institutions, etc.']
+['Hollowing', 'GPE', 'Countries, cities, states']
+['Soul Arrow', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Heavy Soul Arrow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Heavy Soul Arrow', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Big Hat Logan', 'ORG', 'Companies, agencies, institutions, etc.']
+['Logan', 'PERSON', 'People, including fictional']
+['Logan', 'PERSON', 'People, including fictional']
+['the Regal Archives', 'ORG', 'Companies, agencies, institutions, etc.']
+['Item\tSoul Spear\t"Sorcery', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Big Hat Logan', 'ORG', 'Companies, agencies, institutions, etc.']
+['Logan', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Logan', 'PERSON', 'People, including fictional']
+['the Regal Archives', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim', 'PERSON', 'People, including fictional']
+['Magic Shield', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Magic Weapon', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Logan', 'PERSON', 'People, including fictional']
+['Logan', 'PERSON', 'People, including fictional']
+['Shields', 'PERSON', 'People, including fictional']
+['Magic Shield', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Oolacile', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Vinheim', 'GPE', 'Countries, cities, states']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Vinheim', 'PERSON', 'People, including fictional']
+['the Dragon School', 'ORG', 'Companies, agencies, institutions, etc.']
+['first', 'ORDINAL', '"first", "second", etc.']
+['Repair Powder', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Hush', 'PERSON', 'People, including fictional']
+['Vinheim', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Chameleon', 'PERSON', 'People, including fictional']
+['Hidden Body', 'ORG', 'Companies, agencies, institutions, etc.']
+['New Londo Sacrifice', 'GPE', 'Countries, cities, states']
+['Yulva', 'ORG', 'Companies, agencies, institutions, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['the Sealers of New Londo', 'ORG', 'Companies, agencies, institutions, etc.']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+["New Londo's", 'GPE', 'Countries, cities, states']
+['Blighttown', 'ORG', 'Companies, agencies, institutions, etc.']
+['Logan', 'PERSON', 'People, including fictional']
+['Seath the Scaleless', 'PERSON', 'People, including fictional']
+['Seath the Scaleless', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Big Hat', 'ORG', 'Companies, agencies, institutions, etc.']
+['Dark Orb', 'PERSON', 'People, including fictional']
+['Dark Orbs', 'PERSON', 'People, including fictional']
+['Dark Fog', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Dark Fog', 'PERSON', 'People, including fictional']
+['Abyss', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['Fireball', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ultimate', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Salaman', 'PERSON', 'People, including fictional']
+['Pyromancer', 'PERSON', 'People, including fictional']
+['the Great Fireball', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Quelana', 'PERSON', 'People, including fictional']
+['Izalith', 'PERSON', 'People, including fictional']
+['Fire Tempest', 'ORG', 'Companies, agencies, institutions, etc.']
+['Primal', 'GPE', 'Countries, cities, states']
+['Quelana', 'PERSON', 'People, including fictional']
+['Izalith', 'PERSON', 'People, including fictional']
+['the Daughters of Chaos', 'ORG', 'Companies, agencies, institutions, etc.']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Quelana', 'PERSON', 'People, including fictional']
+['Izalith', 'PERSON', 'People, including fictional']
+['Combustion', 'ORG', 'Companies, agencies, institutions, etc.']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['pyromancies', 'GPE', 'Countries, cities, states']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['Poison Mist', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Eingyi', 'ORG', 'Companies, agencies, institutions, etc.']
+['Eingyi', 'ORG', 'Companies, agencies, institutions, etc.']
+['Eingyi', 'ORG', 'Companies, agencies, institutions, etc.']
+['Eingyi', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['Carmina', 'ORG', 'Companies, agencies, institutions, etc.']
+['Flash Sweat', 'PERSON', 'People, including fictional']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['Carmina', 'ORG', 'Companies, agencies, institutions, etc.']
+['Salaman', 'PERSON', 'People, including fictional']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['Undead Rapport', 'ORG', 'Companies, agencies, institutions, etc.']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['Carmina', 'ORG', 'Companies, agencies, institutions, etc.']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['eons', 'DATE', 'Absolute or relative dates or periods']
+['Art of the Flame of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Witch of Izalith', 'ORG', 'Companies, agencies, institutions, etc.']
+['The Flame of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Art of the Flame of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Witch of Izalith', 'ORG', 'Companies, agencies, institutions, etc.']
+['The Witch of Izalith', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Flame of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Art of the Flame of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Witch of Izalith', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Daughters of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gwynevere', 'PERSON', 'People, including fictional']
+['Gradual HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['Sun', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gwynevere', 'PERSON', 'People, including fictional']
+['first', 'ORDINAL', '"first", "second", etc.']
+['Gravelord Nito', 'PERSON', 'People, including fictional']
+['Giant Gravelord swords jut', 'PERSON', 'People, including fictional']
+['the Giant Catacombs', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['first', 'ORDINAL', '"first", "second", etc.']
+['Gravelord Nito', 'PERSON', 'People, including fictional']
+['Giant Gravelord swords jut', 'PERSON', 'People, including fictional']
+['the Greatsword Dance', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gravelord', 'PERSON', 'People, including fictional']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['The Way of White', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Force', 'ORG', 'Companies, agencies, institutions, etc.']
+['Force', 'ORG', 'Companies, agencies, institutions, etc.']
+['Force', 'ORG', 'Companies, agencies, institutions, etc.']
+['Outland', 'GPE', 'Countries, cities, states']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Force', 'ORG', 'Companies, agencies, institutions, etc.']
+['the God of War', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Bishop Havel', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Seath the Scaleless', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Goddess Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Miracle of the black-haired', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Goddess Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Goddess of Sin', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Sun', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gwyndolin', 'GPE', 'Countries, cities, states']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Darkmoon', 'ORG', 'Companies, agencies, institutions, etc.']
+['Darkmoon', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gwyndolin', 'GPE', 'Countries, cities, states']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Darkmoon', 'ORG', 'Companies, agencies, institutions, etc.']
+['Darkmoon', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Havel', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Havel', 'PERSON', 'People, including fictional']
+['Ring\tRed Tearstone Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Carim', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Ring\tDarkmoon Blade Covenant Ring\t"Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gwyndolin', 'PERSON', 'People, including fictional']
+['Gwynevere', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Ring\tCat Covenant Ring\tRing', 'ORG', 'Companies, agencies, institutions, etc.']
+['Hunter', 'PERSON', 'People, including fictional']
+['Alvina', 'PERSON', 'People, including fictional']
+['Alvina', 'PERSON', 'People, including fictional']
+['the early Age of Fire', 'DATE', 'Absolute or relative dates or periods']
+['Alvina', 'PERSON', 'People, including fictional']
+['Knight Artorias', 'PERSON', 'People, including fictional']
+['Ring\tFlame Stoneplate Ring', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ring\tThunder Stoneplate Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ring\tSpell Stoneplate Ring', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ring\tSpeckled Stoneplate Ring\t"Stoneplates', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ring\tBloodbite Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['Arstor', 'PERSON', 'People, including fictional']
+['Carim', 'PERSON', 'People, including fictional']
+['Ring\tPoisonbite Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['Arstor', 'PERSON', 'People, including fictional']
+['Carim', 'PERSON', 'People, including fictional']
+['Ring\tTiny Being\'s Ring\t"Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ring\tCursebite Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['Arstor', 'PERSON', 'People, including fictional']
+['Carim', 'PERSON', 'People, including fictional']
+['Ring\tWhite Seance Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Allfather Lloyd', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Thorolund', 'GPE', 'Countries, cities, states']
+['Ring\tBellowing Dragoncrest Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['one-half', 'CARDINAL', 'Numerals that do not fall under another type']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ring\tHornet Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'PERSON', 'People, including fictional']
+['The Hornet Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Blade Ciaran', 'PERSON', 'People, including fictional']
+['Ciaran', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Ring\tHawk Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'PERSON', 'People, including fictional']
+['The Hawk Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Hawkeye Gough', 'PERSON', 'People, including fictional']
+['Greatarchers', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gough', 'PERSON', 'People, including fictional']
+['Ring\tRing of Steel Protection', 'ORG', 'Companies, agencies, institutions, etc.']
+['Knight', 'PERSON', 'People, including fictional']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Ring\tCovetous Gold Serpent Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ring\tCovetous Silver Serpent Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ring\tSlumbering Dragoncrest Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Ring\tRing of Fog', 'ORG', 'Companies, agencies, institutions, etc.']
+['Alvina', 'PERSON', 'People, including fictional']
+['Ring\tRusted Iron Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ring\tRing of Sacrifice', 'ORG', 'Companies, agencies, institutions, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Goddess of Sin', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ring\tRare Ring of Sacrifice', 'ORG', 'Companies, agencies, institutions, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Goddess of Sin', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ring\tDark Wood Grain Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Eastern', 'NORP', 'Nationalities or religious or political groups']
+['Ring\tRing of the Sun Princess', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gwynevere', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Ring\tRing of Condemnation', 'ORG', 'Companies, agencies, institutions, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Goddess of Sin', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Velka the Goddess of Sin', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ring\tRing of Blind Ghosts', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['New Londo', 'GPE', 'Countries, cities, states']
+['three', 'CARDINAL', 'Numerals that do not fall under another type']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+['New Londo', 'GPE', 'Countries, cities, states']
+["Ring\tOld Witch's Ring", 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ring\tCovenant', 'ORG', 'Companies, agencies, institutions, etc.']
+["Knight Artorias's", 'PERSON', 'People, including fictional']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Artorias', 'PERSON', 'People, including fictional']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Ring\tOrange Charred Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ring\tRing of Displacement', 'ORG', 'Companies, agencies, institutions, etc.']
+['New Londo', 'GPE', 'Countries, cities, states']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Ring\tLingering Dragoncrest Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Ring\tRing of the Evil Eye', 'ORG', 'Companies, agencies, institutions, etc.']
+['Astora', 'PERSON', 'People, including fictional']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ring\tRing of Favor and Protection', 'ORG', 'Companies, agencies, institutions, etc.']
+['Fina', 'ORG', 'Companies, agencies, institutions, etc.']
+['beauty.\\', 'DATE', 'Absolute or relative dates or periods']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['"\nRing\tLeo Ring\tOne', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'PERSON', 'People, including fictional']
+['The Leo Ring', 'PERSON', 'People, including fictional']
+['Ornstein the Dragonslayer', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+['Ring\tEast Wood Grain Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Eastern', 'NORP', 'Nationalities or religious or political groups']
+['East', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Ring\tWolf Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'PERSON', 'People, including fictional']
+['The Wolf Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Artorias the Abysswalker', 'ORG', 'Companies, agencies, institutions, etc.']
+['Artorias', 'PERSON', 'People, including fictional']
+['Ring\tBlue Tearstone Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Catarina', 'ORG', 'Companies, agencies, institutions, etc.']
+["Ring\tRing of the Sun's", 'ORG', 'Companies, agencies, institutions, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Today', 'DATE', 'Absolute or relative dates or periods']
+['Ring\tDarkmoon Seance Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gwyndolin', 'GPE', 'Countries, cities, states']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Ring\tCalamity Ring', 'ORG', 'Companies, agencies, institutions, etc.']
+['Kalameet', 'PERSON', 'People, including fictional']
+['Soul Arrow', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Heavy Soul Arrow', 'ORG', 'Companies, agencies, institutions, etc.']
+['Heavy Soul Arrow', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Big Hat Logan', 'ORG', 'Companies, agencies, institutions, etc.']
+['Logan', 'PERSON', 'People, including fictional']
+['Logan', 'PERSON', 'People, including fictional']
+['the Regal Archives', 'ORG', 'Companies, agencies, institutions, etc.']
+['Big Hat Logan', 'ORG', 'Companies, agencies, institutions, etc.']
+['Logan', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Logan', 'PERSON', 'People, including fictional']
+['the Regal Archives', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim', 'PERSON', 'People, including fictional']
+['Magic Shield', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Magic Weapon', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Logan', 'PERSON', 'People, including fictional']
+['Logan', 'PERSON', 'People, including fictional']
+['Shields', 'PERSON', 'People, including fictional']
+['Spell\tStrong Magic Shield', 'ORG', 'Companies, agencies, institutions, etc.']
+['Magic Shield', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Oolacile', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Vinheim', 'GPE', 'Countries, cities, states']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Vinheim', 'PERSON', 'People, including fictional']
+['the Dragon School', 'ORG', 'Companies, agencies, institutions, etc.']
+['first', 'ORDINAL', '"first", "second", etc.']
+['Spell\tRepair', 'ORG', 'Companies, agencies, institutions, etc.']
+['Repair Powder', 'ORG', 'Companies, agencies, institutions, etc.']
+['Spell\tFall Control', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim Dragon School', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Hush', 'PERSON', 'People, including fictional']
+['Vinheim', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Hidden Body', 'ORG', 'Companies, agencies, institutions, etc.']
+['New Londo Sacrifice', 'GPE', 'Countries, cities, states']
+['Yulva', 'ORG', 'Companies, agencies, institutions, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['the Sealers of New Londo', 'ORG', 'Companies, agencies, institutions, etc.']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+["New Londo's", 'GPE', 'Countries, cities, states']
+['Blighttown', 'ORG', 'Companies, agencies, institutions, etc.']
+['Logan', 'PERSON', 'People, including fictional']
+['Seath the Scaleless', 'PERSON', 'People, including fictional']
+['Seath the Scaleless', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Big Hat', 'ORG', 'Companies, agencies, institutions, etc.']
+['Dark Orb', 'PERSON', 'People, including fictional']
+['Dark Orbs', 'PERSON', 'People, including fictional']
+['Dark Fog', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Dark Fog', 'PERSON', 'People, including fictional']
+['Abyss', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['Fireball', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ultimate', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Salaman', 'PERSON', 'People, including fictional']
+['Pyromancer', 'PERSON', 'People, including fictional']
+['the Great Fireball', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Quelana', 'PERSON', 'People, including fictional']
+['Izalith', 'PERSON', 'People, including fictional']
+['Primal', 'GPE', 'Countries, cities, states']
+['Quelana', 'PERSON', 'People, including fictional']
+['Izalith', 'PERSON', 'People, including fictional']
+['the Daughters of Chaos', 'ORG', 'Companies, agencies, institutions, etc.']
+['Spell\tFire Surge', 'ORG', 'Companies, agencies, institutions, etc.']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Spell\tFire Whip', 'ORG', 'Companies, agencies, institutions, etc.']
+['Quelana', 'PERSON', 'People, including fictional']
+['Izalith', 'PERSON', 'People, including fictional']
+['Combustion', 'ORG', 'Companies, agencies, institutions, etc.']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['pyromancies', 'GPE', 'Countries, cities, states']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['Eingyi', 'ORG', 'Companies, agencies, institutions, etc.']
+['Eingyi', 'ORG', 'Companies, agencies, institutions, etc.']
+['Eingyi', 'ORG', 'Companies, agencies, institutions, etc.']
+['Eingyi', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['the Great Swamp', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['Carmina', 'ORG', 'Companies, agencies, institutions, etc.']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['Carmina', 'ORG', 'Companies, agencies, institutions, etc.']
+['Salaman', 'PERSON', 'People, including fictional']
+['Pyromancer', 'PERSON', 'People, including fictional']
+['Quelana', 'PERSON', 'People, including fictional']
+['Izalith', 'PERSON', 'People, including fictional']
+['Spell\tPower', 'ORG', 'Companies, agencies, institutions, etc.']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['Carmina', 'ORG', 'Companies, agencies, institutions, etc.']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['eons', 'DATE', 'Absolute or relative dates or periods']
+['Art of the Flame of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Witch of Izalith', 'ORG', 'Companies, agencies, institutions, etc.']
+['The Flame of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Art of the Flame of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Witch of Izalith', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Flame of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Art of the Flame of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['the Witch of Izalith', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Daughters of Chaos', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gwynevere', 'PERSON', 'People, including fictional']
+['Gradual HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['Sun', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gwynevere', 'PERSON', 'People, including fictional']
+['first', 'ORDINAL', '"first", "second", etc.']
+['Gravelord Nito', 'PERSON', 'People, including fictional']
+['Giant Gravelord swords jut', 'PERSON', 'People, including fictional']
+['the Giant Catacombs', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['first', 'ORDINAL', '"first", "second", etc.']
+['Gravelord Nito', 'PERSON', 'People, including fictional']
+['Giant Gravelord swords jut', 'PERSON', 'People, including fictional']
+['the Greatsword Dance', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gravelord', 'PERSON', 'People, including fictional']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['The Way of White', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Spell\tForce', 'ORG', 'Companies, agencies, institutions, etc.']
+['Force', 'ORG', 'Companies, agencies, institutions, etc.']
+['Force', 'ORG', 'Companies, agencies, institutions, etc.']
+['Force', 'ORG', 'Companies, agencies, institutions, etc.']
+['Spell\tEmit Force', 'ORG', 'Companies, agencies, institutions, etc.']
+['Outland', 'GPE', 'Countries, cities, states']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Force', 'ORG', 'Companies, agencies, institutions, etc.']
+['the God of War', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Bishop Havel', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Seath the Scaleless', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Spell\tKarmic Justice', 'ORG', 'Companies, agencies, institutions, etc.']
+['Miracle of the black-haired', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Goddess Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Outland', 'GPE', 'Countries, cities, states']
+['the Way of White', 'ORG', 'Companies, agencies, institutions, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Goddess of Sin', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Sun', 'ORG', 'Companies, agencies, institutions, etc.']
+['Gwyndolin', 'GPE', 'Countries, cities, states']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Darkmoon', 'ORG', 'Companies, agencies, institutions, etc.']
+['Darkmoon', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Weapon\tParrying Dagger', 'ORG', 'Companies, agencies, institutions, etc.']
+['Carim', 'PERSON', 'People, including fictional']
+['New Londo', 'GPE', 'Countries, cities, states']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Priscilla', 'PERSON', 'People, including fictional']
+['the Dragon Crossbreed', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Ariamis', 'NORP', 'Nationalities or religious or political groups']
+['Straight Sword Attack', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Straight Sword Attack', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Weapon\tBalder Side Sword', 'PERSON', 'People, including fictional']
+['Balder', 'PERSON', 'People, including fictional']
+['Balder', 'PERSON', 'People, including fictional']
+['Knight King Rendal', 'ORG', 'Companies, agencies, institutions, etc.']
+['Solaire', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Astora', 'GPE', 'Countries, cities, states']
+['Darkwraith Kirk', 'PERSON', 'People, including fictional']
+['Str', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+["Weapon\tAstora's Straight Sword", 'PERSON', 'People, including fictional']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Astora', 'PERSON', 'People, including fictional']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+['darkswords', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['drake', 'PERSON', 'People, including fictional']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+['tight quarters', 'DATE', 'Absolute or relative dates or periods']
+['Weapon\tClaymore\tWeapon', 'ORG', 'Companies, agencies, institutions, etc.']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+["Sen's Fortress", 'ORG', 'Companies, agencies, institutions, etc.']
+['Weapon\tFlamberge', 'ORG', 'Companies, agencies, institutions, etc.']
+["Sen's Fortress", 'ORG', 'Companies, agencies, institutions, etc.']
+['Weapon\tStone Greatsword\tWeapon', 'ORG', 'Companies, agencies, institutions, etc.']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+['Weapon\tGreatsword of Artorias', 'ORG', 'Companies, agencies, institutions, etc.']
+['wolf Sif', 'PERSON', 'People, including fictional']
+['Artorias', 'PERSON', 'People, including fictional']
+['Artorias', 'PERSON', 'People, including fictional']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+['wolf Sif', 'PERSON', 'People, including fictional']
+['Artorias', 'PERSON', 'People, including fictional']
+['Artorias', 'PERSON', 'People, including fictional']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Moonlight Greatsword\t"Weapon type:', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Seath the Scaleless', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Weapon\tGreatsword of Artorias', 'ORG', 'Companies, agencies, institutions, etc.']
+['wolf Sif', 'PERSON', 'People, including fictional']
+['Artorias', 'PERSON', 'People, including fictional']
+['Artorias', 'PERSON', 'People, including fictional']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Ultra Greatsword Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+['Ultra Greatsword Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Knights Berenike', 'ORG', 'Companies, agencies, institutions, etc.']
+['Black Iron Tarkus', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ultra Greatsword Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Capra', 'PERSON', 'People, including fictional']
+['Ultra Greatsword Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Ash Lake', 'GPE', 'Countries, cities, states']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+['Ultra Greatsword Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Curved Sword Attack', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Curved Sword Attack', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Curved Sword Attack', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Earl of Carim', 'PERSON', 'People, including fictional']
+['Curved Sword Attack', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['New Londo', 'GPE', 'Countries, cities, states']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['Curved Sword Attack', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Quelaag', 'ORG', 'Companies, agencies, institutions, etc.']
+['Furysword\t"', 'ORG', 'Companies, agencies, institutions, etc.']
+['Curved Sword Attack', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Quelaag', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Witch of Izalith', 'ORG', 'Companies, agencies, institutions, etc.']
+['Quelaag', 'ORG', 'Companies, agencies, institutions, etc.']
+['Imbued', 'PERSON', 'People, including fictional']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['Slash Giant', 'PERSON', 'People, including fictional']
+['Eastern', 'NORP', 'Nationalities or religious or political groups']
+['Katana', 'ORG', 'Companies, agencies, institutions, etc.']
+['Nata', 'NORP', 'Nationalities or religious or political groups']
+['Gravelord Nito', 'PERSON', 'People, including fictional']
+['first', 'ORDINAL', '"first", "second", etc.']
+['Eastern', 'NORP', 'Nationalities or religious or political groups']
+['Uchigatana', 'PERSON', 'People, including fictional']
+['Eastern', 'NORP', 'Nationalities or religious or political groups']
+['Katana', 'PERSON', 'People, including fictional']
+['Eastern', 'NORP', 'Nationalities or religious or political groups']
+['Katana', 'ORG', 'Companies, agencies, institutions, etc.']
+['Iaijutsu', 'ORG', 'Companies, agencies, institutions, etc.']
+['Quelaag', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Witch of Izalith', 'ORG', 'Companies, agencies, institutions, etc.']
+['Quelaag', 'ORG', 'Companies, agencies, institutions, etc.']
+['Weapon\tMail Breaker', 'ORG', 'Companies, agencies, institutions, etc.']
+['Thrusting Sword Attack', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Thrust Standard', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Thrusting Sword Attack', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Thrusting Sword Attack', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Rapier', 'ORG', 'Companies, agencies, institutions, etc.']
+['Thrusting Sword Attack', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Thrusting Sword Attack', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Ricard', 'PERSON', 'People, including fictional']
+['North', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['the Way of White', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['The Crescent Axe', 'ORG', 'Companies, agencies, institutions, etc.']
+['Weapon\tGolem Axe', 'PERSON', 'People, including fictional']
+["Sen's Fortress", 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Weapon\tGargoyle Tail Axe', 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Weapon\tGreataxe', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['greataxe', 'PERSON', 'People, including fictional']
+['Taurus', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Weapon\tClub', 'ORG', 'Companies, agencies, institutions, etc.']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['Pickaxe', 'PERSON', 'People, including fictional']
+['burg', 'GPE', 'Countries, cities, states']
+['Andre of Astora', 'PERSON', 'People, including fictional']
+['the Old Church', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Weapon\tHammer of Vamos', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vamos', 'ORG', 'Companies, agencies, institutions, etc.']
+['Catacombs', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Weapon\tGreat Club\t"Weapon type:', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Way of White', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['North Undead Asylum', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Havel', 'GPE', 'Countries, cities, states']
+['Weapon\tLarge Club\t"Weapon type:', 'ORG', 'Companies, agencies, institutions, etc.']
+['Blighttown', 'ORG', 'Companies, agencies, institutions, etc.']
+['Smough', 'GPE', 'Countries, cities, states']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Smough', 'GPE', 'Countries, cities, states']
+['the Four Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Caestus', 'ORG', 'Companies, agencies, institutions, etc.']
+['Caestus', 'ORG', 'Companies, agencies, institutions, etc.']
+['Weapon\tClaw', 'ORG', 'Companies, agencies, institutions, etc.']
+['three', 'CARDINAL', 'Numerals that do not fall under another type']
+['Eastern', 'NORP', 'Nationalities or religious or political groups']
+["Sen's Fortress", 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Kaathe', 'PERSON', 'People, including fictional']
+['cramped quarters', 'DATE', 'Absolute or relative dates or periods']
+['Batwing', 'NORP', 'Nationalities or religious or political groups']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Channeler', 'ORG', 'Companies, agencies, institutions, etc.']
+['Trident\t"Weapon type:', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Thrust Trident', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Seath the Scaleless', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Weapon\tPike', 'ORG', 'Companies, agencies, institutions, etc.']
+['Thrust Cross', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ornstein', 'PERSON', 'People, including fictional']
+['Dragonslayer', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Two', 'CARDINAL', 'Numerals that do not fall under another type']
+['Moonlight Butterfly Horn', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Thrust Weapon', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Darkroot Garden', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Thrust Cross', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ornstein', 'PERSON', 'People, including fictional']
+['Dragonslayer', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Two', 'CARDINAL', 'Numerals that do not fall under another type']
+['Halberd Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Halberd', 'ORG', 'Companies, agencies, institutions, etc.']
+['two', 'CARDINAL', 'Numerals that do not fall under another type']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+["Weapon\tGiant's", 'ORG', 'Companies, agencies, institutions, etc.']
+['Halberd', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Halberd Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Halberd Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+["Weapon\tGargoyle's", 'ORG', 'Companies, agencies, institutions, etc.']
+['Halberd\tWeapon', 'ORG', 'Companies, agencies, institutions, etc.']
+['Halberd Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Halberd\tWeapon', 'PERSON', 'People, including fictional']
+['Halberd Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Slash Halberd', 'PERSON', 'People, including fictional']
+['Weapon\tLucerne', 'PERSON', 'People, including fictional']
+['Halberd Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Lucerne', 'GPE', 'Countries, cities, states']
+['Halberd Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Slash Halberd', 'PERSON', 'People, including fictional']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Halberd Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Lifehunt Scythe', 'PERSON', 'People, including fictional']
+['Halberd Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Priscilla', 'PERSON', 'People, including fictional']
+['the Painted World of Ariamis', 'EVENT', 'Named hurricanes, battles, wars, sports events, etc.']
+['Priscilla', 'PERSON', 'People, including fictional']
+['Weapon\tLongbow\tWeapon', 'ORG', 'Companies, agencies, institutions, etc.']
+['Pharis', 'PERSON', 'People, including fictional']
+['Greatbow Attack', 'PERSON', 'People, including fictional']
+['Dragonslayers', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Hawkeye Gough', 'PERSON', 'People, including fictional']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Darkmoon', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Moonlight Arrows', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Equip', 'ORG', 'Companies, agencies, institutions, etc.']
+['Equip', 'ORG', 'Companies, agencies, institutions, etc.']
+['Weapon\tAvelyn', 'PERSON', 'People, including fictional']
+['Eidas', 'ORG', 'Companies, agencies, institutions, etc.']
+['Carim', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Sniper Crossbow', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Vinheim Dragon School', 'ORG', 'Companies, agencies, institutions, etc.']
+['Equip', 'ORG', 'Companies, agencies, institutions, etc.']
+['Attune', 'PERSON', 'People, including fictional']
+['Beatrice', 'ORG', 'Companies, agencies, institutions, etc.']
+['Vinheim', 'PERSON', 'People, including fictional']
+['age-old', 'DATE', 'Absolute or relative dates or periods']
+['Weapon\tTin Banishment Catalyst', 'ORG', 'Companies, agencies, institutions, etc.']
+['Thrust Catalyst', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['New Londo', 'GPE', 'Countries, cities, states']
+['Darkwraiths', 'PERSON', 'People, including fictional']
+["Weapon\tLogan's", 'PERSON', 'People, including fictional']
+['the Vinheim sorcerers', 'ORG', 'Companies, agencies, institutions, etc.']
+['Logan', 'PERSON', 'People, including fictional']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Weapon\tTin Darkmoon Catalyst', 'ORG', 'Companies, agencies, institutions, etc.']
+['Darkmoon', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Gwyndolin', 'GPE', 'Countries, cities, states']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Moon', 'PERSON', 'People, including fictional']
+['Oolacile', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Thrust Catalyst', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Logan', 'PERSON', 'People, including fictional']
+['Izalith', 'PERSON', 'People, including fictional']
+['The Demon Firesage', 'ORG', 'Companies, agencies, institutions, etc.']
+['first', 'ORDINAL', '"first", "second", etc.']
+['the Witch of Izalith', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Chaos Flame', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Pyromancy Flame Attack', 'PERSON', 'People, including fictional']
+['Great Swamp', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Pyromancers', 'PERSON', 'People, including fictional']
+['Equip', 'ORG', 'Companies, agencies, institutions, etc.']
+['Attune', 'PERSON', 'People, including fictional']
+['pyromancies', 'GPE', 'Countries, cities, states']
+['Pyromancy Flame Attack', 'PERSON', 'People, including fictional']
+['Pyromancy', 'PERSON', 'People, including fictional']
+['Quelana', 'PERSON', 'People, including fictional']
+['Izalith', 'PERSON', 'People, including fictional']
+['Attune', 'PERSON', 'People, including fictional']
+['Talisman', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Attune', 'PERSON', 'People, including fictional']
+['Thorolund', 'PERSON', 'People, including fictional']
+['Weapon\tIvory Talisman', 'PERSON', 'People, including fictional']
+['Ivory Talismans', 'NORP', 'Nationalities or religious or political groups']
+['Talisman\tDragon Talismans\nWeapon\tSunlight Talisman\t"Weapon', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Solaire', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Astora', 'GPE', 'Countries, cities, states']
+['Solaire', 'PERSON', 'People, including fictional']
+['Solaire', 'ORG', 'Companies, agencies, institutions, etc.']
+['Darkmoon Blade', 'ORG', 'Companies, agencies, institutions, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Velka', 'ORG', 'Companies, agencies, institutions, etc.']
+['Catacombs', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Droops', 'PERSON', 'People, including fictional']
+['Giants', 'ORG', 'Companies, agencies, institutions, etc.']
+['Nito', 'ORG', 'Companies, agencies, institutions, etc.']
+['Weapon\tTarget Shield', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Parry', 'PERSON', 'People, including fictional']
+['Weapon\tPlank Shield', 'ORG', 'Companies, agencies, institutions, etc.']
+['Caduceus', 'GPE', 'Countries, cities, states']
+['Weapon\tCrystal Ring Shield', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Darkroot Garden', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Imbued', 'PERSON', 'People, including fictional']
+['Seath the Scaleless', 'ORG', 'Companies, agencies, institutions, etc.']
+['100%', 'PERCENT', 'Percentage, including "%"']
+['Balder', 'PERSON', 'People, including fictional']
+['Balder', 'PERSON', 'People, including fictional']
+['Knight King Rendal', 'ORG', 'Companies, agencies, institutions, etc.']
+['Astora', 'PERSON', 'People, including fictional']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['Astora', 'PERSON', 'People, including fictional']
+['One', 'CARDINAL', 'Numerals that do not fall under another type']
+['East', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['Deflects', 'PERSON', 'People, including fictional']
+['Darkwraith Kirk', 'PERSON', 'People, including fictional']
+['Knight', 'PERSON', 'People, including fictional']
+['Solaire', 'PERSON', 'People, including fictional']
+['Solaire', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Silver Knights of Anor Londo', 'ORG', 'Companies, agencies, institutions, etc.']
+['The Silver Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['the Black Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Lordan', 'PERSON', 'People, including fictional']
+['Thrust Shield', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Catarina', 'PERSON', 'People, including fictional']
+['Weapon\tRed and White Round Shield', 'ORG', 'Companies, agencies, institutions, etc.']
+['Caduceus', 'ORG', 'Companies, agencies, institutions, etc.']
+["Weapon\tGargoyle's", 'ORG', 'Companies, agencies, institutions, etc.']
+['100%', 'PERCENT', 'Percentage, including "%"']
+['Greatshield Attack', 'PERSON', 'People, including fictional']
+['greatshield', 'PERSON', 'People, including fictional']
+['Greatshield Attack', 'PERSON', 'People, including fictional']
+['Knight Berenike', 'PERSON', 'People, including fictional']
+['Greatshield Attack', 'PERSON', 'People, including fictional']
+['Greatshield', 'PERSON', 'People, including fictional']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Marcasite', 'PERSON', 'People, including fictional']
+['Greatshield Attack', 'PERSON', 'People, including fictional']
+['greatshield', 'PERSON', 'People, including fictional']
+['the Darkroot Garden', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['the Stone Knight', 'ORG', 'Companies, agencies, institutions, etc.']
+['The Stone Knight', 'ORG', 'Companies, agencies, institutions, etc.']
+['Greatshield Attack', 'PERSON', 'People, including fictional']
+['Havel the Rock', 'ORG', 'Companies, agencies, institutions, etc.']
+['greatshield', 'PERSON', 'People, including fictional']
+['Havel', 'GPE', 'Countries, cities, states']
+['the Dragon Tooth', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Weapon\tBonewheel Shield', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Greatshield Attack', 'PERSON', 'People, including fictional']
+['Strike Giant', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Half', 'CARDINAL', 'Numerals that do not fall under another type']
+['greatshield', 'GPE', 'Countries, cities, states']
+['Artorias', 'PERSON', 'People, including fictional']
+['Greatshield Attack', 'PERSON', 'People, including fictional']
+['wolf Sif', 'PERSON', 'People, including fictional']
+['Artorias', 'PERSON', 'People, including fictional']
+['Arrow Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Arrow Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Arrow Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Arrow Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Thrust Arrows', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Arrow Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Thrust Arrow', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Moonlight Arrow\t"Weapon type:', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Arrow Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Thrust Arrow', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Moonlight Arrows', 'PERSON', 'People, including fictional']
+['Arrow Attack', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Thrust Giant', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Hawkeye Gough', 'PERSON', 'People, including fictional']
+['Dragonslayers', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Dragonslayer Arrows', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Dragonslayer Greatbow', 'PERSON', 'People, including fictional']
+['Hawkeye Gough', 'PERSON', 'People, including fictional']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Greatbow', 'PERSON', 'People, including fictional']
+['the Light Crossbow', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Thrust Red', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Sniper Crossbow', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Weapon\tWood Bolt', 'ORG', 'Companies, agencies, institutions, etc.']
+['Anor Londo', 'GPE', 'Countries, cities, states']
+['Weapon\tBolt\t\nWeapon\tEffigy Shield', 'PERSON', 'People, including fictional']
+['Gravelord Nito', 'PERSON', 'People, including fictional']
+['first', 'ORDINAL', '"first", "second", etc.']
+['Weapon\tSanctus', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Way of White', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['HP', 'ORG', 'Companies, agencies, institutions, etc.']
+['Weapon\tBloodshield', 'PERSON', 'People, including fictional']
+['bloodshield', 'PERSON', 'People, including fictional']
+['Greatshield Attack', 'PERSON', 'People, including fictional']
+['Tarkus', 'PERSON', 'People, including fictional']
+["Knight Berenike's", 'PERSON', 'People, including fictional']
+['Curved Sword Attack', 'WORK_OF_ART', 'Titles of books, songs, etc.']
+['Blade Ciaran', 'PERSON', 'People, including fictional']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Ciaran', 'PERSON', 'People, including fictional']
+['Blade Ciaran', 'PERSON', 'People, including fictional']
+['Gwyn', 'ORG', 'Companies, agencies, institutions, etc.']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['first', 'ORDINAL', '"first", "second", etc.']
+['the Gold Tracer', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Knight Artorias', 'PERSON', 'People, including fictional']
+['Abyss', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Greatshield Attack', 'PERSON', 'People, including fictional']
+['Knight Artorias', 'PERSON', 'People, including fictional']
+['Abyss', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Artorias', 'PERSON', 'People, including fictional']
+['Abyss', 'FAC', 'Buildings, airports, highways, bridges, etc.']
+['Sif', 'PERSON', 'People, including fictional']
+['Weapon\tStone Greataxe', 'ORG', 'Companies, agencies, institutions, etc.']
+['Sanctuary', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['greataxe', 'PERSON', 'People, including fictional']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Sanctuary', 'LOC', 'Non-GPE locations, mountain ranges, bodies of water']
+['four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Manus', 'PERSON', 'People, including fictional']
+['Abyss', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['the Tin Crystallization Catalyst', 'ORG', 'Companies, agencies, institutions, etc.']
+['the Sanctuary Guardian', 'ORG', 'Companies, agencies, institutions, etc.']
+['greataxe', 'PERSON', 'People, including fictional']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['one', 'CARDINAL', 'Numerals that do not fall under another type']
+['Kalameet', 'PERSON', 'People, including fictional']
+['Greatbow Attack', 'PERSON', 'People, including fictional']
+['Greatbow', 'PERSON', 'People, including fictional']
+['Hawkeye Gough', 'PERSON', 'People, including fictional']
+['Gwyn', 'PERSON', 'People, including fictional']
+['Four', 'CARDINAL', 'Numerals that do not fall under another type']
+['Knights', 'ORG', 'Companies, agencies, institutions, etc.']
+['Dragonslayers', 'PRODUCT', 'Objects, vehicles, foods, etc. (not services)']
+['Gough', 'PERSON', 'People, including fictional']
