@@ -1,3 +1,7 @@
+# ebb: This code was outputting a good file of named entitites from your descriptions in
+# itemsOutput.txt. But it's not going to be useful for preparing network data.
+# For that let's work with a trimmed version of your spreadsheet and explore the Pandas library
+# for reading "data frames" in a spreadhsheet. Let's start this in a new file.
 import spacy
 from collections import Counter
 import os
