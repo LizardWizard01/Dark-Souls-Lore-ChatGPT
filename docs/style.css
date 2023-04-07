@@ -21,6 +21,15 @@ div.doc {
     padding: 6.5em;
     margin: auto;
 }
+div.update p{
+    color: white;
+    border: double;
+    border-width:6px;
+    color: white;
+    background-color: black;
+    font-size: 1.5em;
+    padding: 2em;
+}
 div.doc p{
     color: white;
     border: double;
