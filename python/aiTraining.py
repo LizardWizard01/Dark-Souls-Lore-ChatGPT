@@ -4,6 +4,7 @@ import config
 import os
 import openai
 
+
 config = ConfigParser()
 config.read('config.cfg')
 # openai.api_key_path = 'config.cfg'
@@ -27,8 +28,13 @@ completion = openai.ChatCompletion.create(
   model="gpt-3.5-turbo",
   messages=[
     {"role": "system", "content": "You are an assistant that generates new items that could function within the dark souls lore, but is entirely fictional and is not actually in the game"},
-    {"role": "user", "content": "Could you generate an armor set for me?"}
+    # {"role": "system", "content":},
+    {"role": "user", "content": "What is your function?"}
   ]
 )
-
+# openai.File.create(
+#   file=open("ds-text.jsonl", "rb"),
+#   purpose='fine-tune'
+# )
+openai.FineTune.create(training_file="fine-tune.json")
 print(completion.choices[0].message)
