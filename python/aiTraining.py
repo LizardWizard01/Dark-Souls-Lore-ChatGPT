@@ -25,7 +25,7 @@ completion = openai.Completion.create(model="ada", prompt="Hello world")
 print(completion.choices[0].text)
 
 completion = openai.ChatCompletion.create(
-  model="gpt-3.5-turbo",
+  model="fine-tune.json",
   messages=[
     {"role": "system", "content": "You are an assistant that generates new items that could function within the dark souls lore, but is entirely fictional and is not actually in the game"},
     # {"role": "system", "content":},
@@ -36,5 +36,6 @@ completion = openai.ChatCompletion.create(
 #   file=open("ds-text.jsonl", "rb"),
 #   purpose='fine-tune'
 # )
+openai api fine_tunes.create -t <"fine-tune.json"> -m <'ada'>
 openai.FineTune.create(training_file="fine-tune.json")
 print(completion.choices[0].message)
