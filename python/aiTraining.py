@@ -4,6 +4,8 @@ import config
 import os
 import openai
 from openai import FineTune
+import subprocess
+localTraining = 'fine-tune.json'
 
 
 config = ConfigParser()
@@ -37,6 +39,8 @@ completion = openai.ChatCompletion.create(
 #   file=open("ds-text.jsonl", "rb"),
 #   purpose='fine-tune'
 # )
-openai.fine_tunes.create -t "fine-tune.json" -m 'ada'
-openai.FineTune.create(training_file="fine-tune.json")
+command = ["openai", "tools", "fine_tunes.prepare_data", "-f", localTraining]
+subprocess.run(command, check=True)
+# openai.fine_tunes.create -t "fine-tune.json" -m 'ada'
+# openai.FineTune.create(training_file="fine-tune.json")
 print(completion.choices[0].messages)
