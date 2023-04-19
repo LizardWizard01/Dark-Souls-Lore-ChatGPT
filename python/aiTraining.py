@@ -5,7 +5,7 @@ import os
 import openai
 from openai import FineTune
 import subprocess
-localTraining = '../txtFiles/fine-tune-testing.jsonl'
+localTraining = '../txtFiles/fine-tune-testing1.jsonl'
 
 
 config = ConfigParser()
