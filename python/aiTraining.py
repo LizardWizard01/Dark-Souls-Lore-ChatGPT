@@ -5,7 +5,7 @@ import os
 import openai
 from openai import FineTune
 import subprocess
-localTraining = 'fine-tune.json'
+localTraining = '../txtFiles/fine-tune-testing.jsonl'
 
 
 config = ConfigParser()
@@ -43,7 +43,10 @@ print(completion.choices[0].text)
 #   file=open("ds-text.jsonl", "rb"),
 #   purpose='fine-tune'
 # )
-command = ["openai", "tools", "fine_tunes.prepare_data", "-f", localTraining]
+# ebb: old version for preparing the JSONL data from JSON: command = ["openai", "tools", "fine_tunes.prepare_data", "-f", localTraining]
+# new version is for handling the training: see if this works.
+command = ["openai", "api", "fine_tunes.create", "-t", localTraining, "-m", "ada"]
+
 subprocess.run(command, check=True)
 # ebb: The lines above prepare the JSONL file from JSON.
 
