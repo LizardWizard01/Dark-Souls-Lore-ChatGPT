@@ -5,7 +5,7 @@ import os
 import openai
 from openai import FineTune
 import subprocess
-# localTraining = 'fine-tune-testing1.jsonl'
+localTraining = '../txtFiles/fine-tune-testing.jsonl'
 
 
 config = ConfigParser()
@@ -15,7 +15,6 @@ API_KEY = config.get('openai', 'api_key')
 openai.api_key = API_KEY
 # print(openai.Model.list())
 
-
 # list models
 models = openai.Model.list()
 
@@ -23,20 +22,13 @@ models = openai.Model.list()
 print(models.data[0].id)
 
 # ebb: I think we were missing a step to retrieve a model.
-# print(openai.Model.retrieve("ada:ft-digit-psb-2023-04-21-00-27-58"))
+print(openai.Model.retrieve("ada"))
 
 # create a completion
-completion = openai.Completion.create(model="ada:ft-digit-psb-2023-04-21-00-27-58", prompt="You are an assistant that generates new items that could function within the dark souls lore, but is entirely fictional and is not actually in the game")
-# completion = openai.ChatCompletion.create(
-#     model="ada:ft-digit-psb-2023-04-21-00-27-58",
-#     messages=[
-#         {"role": "system", "content": "Your purpose is to generate new items that could function in the Dark Souls Universe" },
-#         {"role": "user", "content": "Create a new item"},
-#     ]
-# )
+completion = openai.Completion.create(model="ada", prompt="You are an assistant that generates new items that could function within the dark souls lore, but is entirely fictional and is not actually in the game")
 
 # print the completion
-
+print(completion.choices[0].text)
 
 #
 # completion = openai.ChatCompletion.create(
@@ -53,15 +45,11 @@ completion = openai.Completion.create(model="ada:ft-digit-psb-2023-04-21-00-27-5
 # )
 # ebb: old version for preparing the JSONL data from JSON: command = ["openai", "tools", "fine_tunes.prepare_data", "-f", localTraining]
 # new version is for handling the training: see if this works.
+command = ["openai", "api", "fine_tunes.create", "-t", localTraining, "-m", "ada"]
 
-# ebb: This reproduces CLI functionality in Python
-# command = ["openai", "api", "completions.create", "-m", "ada:ft-digit-psb-2023-04-21-00-27-58", "-p", "make a new ring"]
-
-# subprocess.run(command, check=True)
-
-
+subprocess.run(command, check=True)
 # ebb: The lines above prepare the JSONL file from JSON.
 
 # openai.fine_tunes.create -t "fine-tune.json" -m 'ada'
 # openai.FineTune.create(training_file="fine-tune.json")
-print(completion.choices[0])
+# print(completion.choices[0].messages)
