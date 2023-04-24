@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="2000">
+   <g transform="translate(50, 20)"><!--Use XML comments down here in the XML plot. In SVG, transform/translate shifts things by X and Y coordinates.
+    So this moves the whole plot over by 50 and down by 20 from top left. We're going to start by plotting down the screen.
+    We can come back here to work on flipping the plot in a different direction.
+    
+    Okay, let's take this season by season and plot a comparative count of catchphrases.
+    -->

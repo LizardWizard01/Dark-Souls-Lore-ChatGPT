@@ -17,7 +17,7 @@ df = df.iloc[:, [1, 4, 7]]  # ebb: Select columns to read, start counting from z
 rows = []
 for row in df.iterrows():
     doc = row[1][7]
-    print(doc)
+    # print(doc)
     stringDesc = str(doc)
     tokens = nlp(stringDesc)
     # This should run spaCy nlp over each row, the third (description) column that we imported

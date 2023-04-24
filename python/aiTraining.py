@@ -5,7 +5,7 @@ import os
 import openai
 from openai import FineTune
 import subprocess
-localTraining = '../txtFiles/fine-tune-testing1.jsonl'
+localTraining = 'fine-tune-testing1.jsonl'
 
 
 config = ConfigParser()
@@ -14,6 +14,7 @@ config.read('config.cfg')
 API_KEY = config.get('openai', 'api_key')
 openai.api_key = API_KEY
 # print(openai.Model.list())
+
 
 # list models
 models = openai.Model.list()
