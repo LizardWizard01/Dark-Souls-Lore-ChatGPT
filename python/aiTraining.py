@@ -26,14 +26,14 @@ print(models.data[0].id)
 # print(openai.Model.retrieve("ada:ft-digit-psb-2023-04-21-00-27-58"))
 
 # create a completion
-completion = openai.Completion.create(model="ada:ft-digit-psb-2023-04-21-00-27-58", prompt="You are an assistant that generates new items that could function within the dark souls lore, but is entirely fictional and is not actually in the game")
-# completion = openai.ChatCompletion.create(
-#     model="ada:ft-digit-psb-2023-04-21-00-27-58",
-#     messages=[
-#         {"role": "system", "content": "Your purpose is to generate new items that could function in the Dark Souls Universe" },
-#         {"role": "user", "content": "Create a new item"},
-#     ]
-# )
+# completion = openai.Completion.create(model="ada:ft-digit-psb-2023-04-21-00-27-58", prompt="You are an assistant that generates new items that could function within the dark souls lore, but is entirely fictional and is not actually in the game")
+completion = openai.ChatCompletion.create(
+    model="ada:ft-digit-psb-2023-04-21-00-27-58",
+    messages=[
+        {"role": "system", "content": "Your purpose is to generate new items that could function in the Dark Souls Universe" },
+        {"role": "user", "content": "Create a new item"},
+    ])
+
 
 # print the completion
 

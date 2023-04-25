@@ -54,7 +54,7 @@ div.vis p{
     font-size: 1.25em;
     padding: 2em;
 }
-#cy {
+div#cyto {
      width: 65vw;
      height:100vh;
      position:absolute;
