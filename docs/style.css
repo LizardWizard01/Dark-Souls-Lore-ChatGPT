@@ -25,7 +25,6 @@ div.update p{
     color: white;
     border: double;
     border-width:6px;
-    color: white;
     background-color: black;
     font-size: 1.5em;
     padding: 2em;
@@ -39,6 +38,29 @@ div.doc p{
     font-size: 2em;
     padding: 2em;
 }
+div.svg figure{
+    color: white;
+    border: double;
+    border-width:6px;
+    background-color: black;
+    font-size: 1.25em;
+    padding: 2em;
+}
+div.vis p{
+    color: white;
+    border: double;
+    border-width:6px;
+    background-color: black;
+    font-size: 1.25em;
+    padding: 2em;
+}
+#cy {
+     width: 65vw;
+     height:100vh;
+     position:absolute;
+     margin:auto;
+     border-style:double;
+ }
 section.title h1 {
     color: white;
     text-align: center;
