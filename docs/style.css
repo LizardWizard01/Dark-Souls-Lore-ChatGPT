@@ -13,6 +13,16 @@ h1{
     text-align: center;
     font-size: 2em;
 }
+h2{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
+h3{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
 div.doc {
     border: double;
     border-width:6px;
@@ -22,6 +32,38 @@ div.doc {
     margin: auto;
 }
 div.update p{
+    color: white;
+    border: double;
+    border-width:6px;
+    background-color: black;
+    font-size: 1.5em;
+    padding: 2em;
+}
+div.welcome p{
+    color: white;
+    border: double;
+    border-width:6px;
+    background-color: black;
+    font-size: 1.5em;
+    padding: 2em;
+}
+div.questions p{
+    color: white;
+    border: double;
+    border-width:6px;
+    background-color: black;
+    font-size: 1.5em;
+    padding: 2em;
+}
+div.text p{
+    color: white;
+    border: double;
+    border-width:6px;
+    background-color: black;
+    font-size: 1.5em;
+    padding: 2em;
+}
+div.questions li{
     color: white;
     border: double;
     border-width:6px;
