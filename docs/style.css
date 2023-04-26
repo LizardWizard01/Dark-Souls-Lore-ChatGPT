@@ -138,3 +138,11 @@ nav ul li a {
 nav ul li a:hover {
   background-color:darkgrey;
 }    
+table{
+   color: white;
+    border: double;
+    border-width:6px;
+    background-color: black;
+    font-size: 1.5em;
+    padding: 2em; 
+}
