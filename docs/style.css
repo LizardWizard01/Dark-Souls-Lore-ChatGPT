@@ -103,6 +103,22 @@ div#cyto {
      margin:auto;
      border-style:double;
  }
+div.about p{
+    color: white;
+    border: double;
+    border-width:6px;
+    background-color: black;
+    font-size: 1.25em;
+    padding: 2em;
+}
+div.team{
+    color: white;
+    border: double;
+    border-width:6px;
+    background-color: black;
+    font-size: 1.25em;
+    padding: 2em;
+}
 section.title h1 {
     color: white;
     text-align: center;
