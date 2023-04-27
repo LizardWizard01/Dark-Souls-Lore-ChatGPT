@@ -23,6 +23,11 @@ h3{
     text-align: center;
     font-size: 2em;
 }
+h4{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
 div.doc {
     border: double;
     border-width:6px;
@@ -145,4 +150,8 @@ table{
     background-color: black;
     font-size: 1.5em;
     padding: 2em; 
+}
+iframe{
+    display: block;
+    margin: auto;
 }

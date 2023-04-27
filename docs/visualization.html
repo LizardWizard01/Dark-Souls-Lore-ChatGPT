@@ -20,20 +20,27 @@
                 <li>
                     <a href="problems.html">Problems</a>
                 </li>
+                <li>
+                    <a href="examples.html">Examples</a>
+                </li>
+                <li>
+                    <a href="https://github.com/LizardWizard01/Dark-Souls-Lore-ChatGPT">GitHub Repo</a>
+                </li>
             </ul>
         </nav>
         <div class="svg">
+            <h1>How Our Data Looks</h1>
             <figure>
-                <figcaption>Below is a .svg image file showing some of our data being processed through
-                    cytoscape. At the center is a node labeled "Gwyn", surrounded by and connected to
-                    various item nodes. This shows that each of these items mentions Gwyn in their
-                    descriptions, or has some connection with Gwyn which makes sense given some context. In Dark Souls,
-                    Gwyn is a central character who ultimately causes the events of the first game.
-                    After killing the dragons, Gwyn built the kingdom of Lordran and began the age
-                    of fire. When the first flame began to fade, Gwyn sacrificed himself to prolong
-                    it which put a curse on humanity. He and his actions are tied to just about
-                    everything in the game, so it makes sense he's in the center, connected to every
-                    item. </figcaption>
+                <figcaption>Below is a .svg image file showing some of our data being processed
+                    through cytoscape. At the center is a node labeled "Gwyn", surrounded by and
+                    connected to various item nodes. This shows that each of these items mentions
+                    Gwyn in their descriptions, or has some connection with Gwyn which makes sense,
+                    given some context. In Dark Souls, Gwyn is a central character who ultimately
+                    causes the events of the first game. After killing the dragons, Gwyn built the
+                    kingdom of Lordran and began the age of fire. When the first flame began to
+                    fade, Gwyn sacrificed himself to prolong it which put a curse on humanity. He
+                    and his actions are tied to just about everything in the game, so it makes sense
+                    he's in the center, connected to every item. </figcaption>
                 <img src="pics/akam-DSnetwork3.svg" alt="cytoscape network as svg file" />
             </figure>
         </div>
@@ -44,12 +51,27 @@
                 Using this analysis, we can interpret how AI chatbots read and understand this data,
                 allowing for further speculation. Our project started as an idea to have chatGPT use
                 in-game item descriptions to generate original, lore-friendly items. Seeing how AI
-                interprets the data confirms that this is possible as it's able to make
-                connections bewteen descriptions. Using AI can also be useful for people trying to
-                understand some of the more hidden lore bits from Dark Souls, as the AI points out
-                connections. Seeing Gwyn's relation to each item gives us a unique prespective.</p>
+                interprets the data confirms that this is possible as it's able to make connections
+                bewteen descriptions. Using AI can also be useful for people trying to understand
+                some of the more hidden lore bits from Dark Souls, as the AI points out connections.
+                Seeing Gwyn's relation to each item gives us a unique prespective that allows us to
+                notice how interconnected each item is to the game. To an extent, this how we can
+                understand what ai models are seeing.</p>
         </div>
-        <!--<div id="cyto">
+        <div class="text">
+            <h2>Cytoscape Visualization</h2>
+            <p>Next is our cytoscape visualization. Here, we have a large portion of visible
+                connections all throughout the information present in our source document. This
+                visualization helps piece together fully how each bit of information is connected.
+                This includes the connections of similarly named items, such as armor pieces of the
+                same set, and other things, such as cardinal numbers that are present in items of
+                indexed values. By looking through this visualization, one can see more of how the
+                information is organized, and how the ai may be reaching in to look at it. Key
+                points of interest involve the related items, important people and places,
+                understanding the differences between differently colored and shaped icons, and
+                anything else that could provide an in-depth look into our dataset. Beneath the
+                cytoscape visualization is instructions that help navigate the network.</p>
+            <!--<div id="cyto">
             <script src="ds-cs2/web_session/scripts/services/22f5c459.network.js"></script>
             <script src="ds-cs2/web_session/scripts/services/ac1aeeaa.visual-styles.js"></script>
             <script src="ds-cs2/web_session/scripts/65d77273.vendor.js"></script>
@@ -58,8 +80,21 @@
             <script src="ds-cs2/web_session/scripts/1d327552.scripts.js"></script>
             <script src="ds-cs2/web_session/scripts/3e4be17b.app.js"></script>
         </div>-->
-        <iframe src="ds-cs2/web_session/index.html" height="1000" width="1500" title="WebVis">
-            
-        </iframe>
+            <iframe src="ds-cs2/web_session/index.html" height="1000" width="1500" title="WebVis"> </iframe>
+            <p>In order to properly navigate the Cytoscape network, you should take a second to
+                follow these instructions here. First, the visualization was meant to have a dark
+                background. The text is white, so changing the background to black can help with
+                reading the visualization. On the right side of the window, select the ink icon
+                (this may take a few clicks as it may be unresponsive), and select the desired
+                color. After this, it is now a matter of altering the zoom so that navigating around
+                the window is possible. Simply use the scroll of your mouse to zoom in, and if you
+                need to pan across the window, click the left and mouse button at the same time and
+                hold for a moment. This will allow you to pan across the screen. Finally, in the top
+                left corner, there are a few optional views that can be accessed, however it is
+                recommended that you keep the default settings, as we personalized it for this view.
+                It is encouraged that you explore the network and try to find associations between
+                items. We believe this is the best way to try and understand the data and how ai
+                views related topics! </p>
+        </div>
     </body>
 </html>
