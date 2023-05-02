@@ -67,6 +67,7 @@ div.text p{
     background-color: black;
     font-size: 1.5em;
     padding: 2em;
+    margin: 6em;
 }
 div.questions li{
     color: white;
@@ -123,6 +124,7 @@ div.team{
     background-color: black;
     font-size: 1.25em;
     padding: 2em;
+    margin: 5em;
 }
 section.title h1 {
     color: white;
@@ -170,4 +172,9 @@ table{
 iframe{
     display: block;
     margin: auto;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
