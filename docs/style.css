@@ -31,43 +31,55 @@ h4{
 div.doc {
     border: double;
     border-width:6px;
-    color: white;
+    color: saddlebrown;
     background-color: black;
     padding: 6.5em;
     margin: auto;
 }
+div.update{
+    border: double;
+    border-width:6px;
+    color: saddlebrown;
+}
 div.update p{
     color: white;
+    background-color: black;
+    font-size: 1.5em;
+    padding: 1.5em;
+}
+div.welcome {
+    color: saddlebrown;
     border: double;
     border-width:6px;
     background-color: black;
-    font-size: 1.5em;
-    padding: 2em;
 }
 div.welcome p{
     color: white;
+    font-size: 1.5em;
+    padding: 1.5em;
+}
+div.questions{
     border: double;
     border-width:6px;
     background-color: black;
-    font-size: 1.5em;
-    padding: 2em;
+    color: saddlebrown;
 }
 div.questions p{
     color: white;
+    font-size: 1.5em;
+    padding: 1.5em;
+}
+div.text{
     border: double;
     border-width:6px;
     background-color: black;
-    font-size: 1.5em;
-    padding: 2em;
+    color: saddlebrown;
+    margin: 6em;
 }
 div.text p{
     color: white;
-    border: double;
-    border-width:6px;
-    background-color: black;
     font-size: 1.5em;
     padding: 2em;
-    margin: 6em;
 }
 div.questions li{
     color: white;
@@ -77,28 +89,35 @@ div.questions li{
     font-size: 1.5em;
     padding: 2em;
 }
+
 div.doc p{
     color: white;
     border: double;
     border-width:6px;
     color: white;
     background-color: black;
-    font-size: 2em;
+    font-size: 1.5em;
+    padding: 2em;
+}
+div.svg{
+    color: saddlebrown;
+    border: double;
+    border-width:6px;
+    background-color: black;
     padding: 2em;
 }
 div.svg figure{
     color: white;
+    font-size: 1.25em;
+}
+div.vis{
+    color: saddlebrown;
     border: double;
     border-width:6px;
     background-color: black;
-    font-size: 1.25em;
-    padding: 2em;
 }
 div.vis p{
     color: white;
-    border: double;
-    border-width:6px;
-    background-color: black;
     font-size: 1.25em;
     padding: 2em;
 }
@@ -108,23 +127,29 @@ div#cyto {
      position:absolute;
      margin:auto;
      border-style:double;
- }
-div.about p{
-    color: white;
+}
+div.about{
+    color: saddlebrown;
     border: double;
     border-width:6px;
     background-color: black;
+}
+div.about p{
+    color: white;
     font-size: 1.25em;
     padding: 2em;
 }
 div.team{
-    color: white;
+    color: saddlebrown;
     border: double;
     border-width:6px;
     background-color: black;
     font-size: 1.25em;
     padding: 2em;
     margin: 5em;
+}
+div.team p{
+    color: white;
 }
 section.title h1 {
     color: white;
@@ -133,7 +158,7 @@ section.title h1 {
 nav {
     border:6px;
     border-style:double;
-    color: white;
+    color: saddlebrown;
     background-color: black;
 }
 nav ul {
@@ -164,6 +189,7 @@ nav ul li a:hover {
 table{
    color: white;
     border: double;
+    border-color: saddlebrown;
     border-width:6px;
     background-color: black;
     font-size: 1.5em;
