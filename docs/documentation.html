@@ -42,7 +42,11 @@
                 in-game lore. With that in mind, we were planning on evaluating the similarities and
                 differences between the existing set of items from the <a
                     href="https://docs.google.com/spreadsheets/d/1nU-PlT4giFSGspGPTtZmt8XS2cPw4pCuf__J0Izfqqw/edit?usp=sharing"
-                    >google sheet we discovered</a> and our fictional set that would be generated. </p>
+                    >google sheet we discovered</a> and our fictional set that would be generated.
+                The google sheet gave us a vast list of information on each item that we could use,
+                but we decided to pick only the item type, name, and english description, as it made
+                the most sense and was allowing us to reformat and remove things we didn't see
+                necessary.</p>
             <p>To start this process, we had to be able to scrape the information that we needed
                 from the google sheet. We started looking at resources for Python that could allow
                 us to do this, but soon realized there was a much simpler way to achieve this. We
@@ -61,7 +65,15 @@
                 giving us <a
                     href="https://discusschatgpt.com/training-your-own-chatgpt-model-a-step-by-step-tutorial/"
                     >overviews of the system</a>, we began to learn more about training an AI to
-                make our idea work. </p>
+                make our idea work. Our python is visible <a
+                    href="https://github.com/LizardWizard01/Dark-Souls-Lore-ChatGPT/blob/main/python/aiTraining.py"
+                    >here</a>. It includes a lot of commented out portions, but the important parts
+                are the ones that highlight our use of ai models. This involves importing the
+                required parts, adding the model section which allows for a process called few-shot
+                learning, and finally printing our output. This is the basis for all of our python,
+                and in the file, you'll find the remnants of us using it to process our data in
+                different ways. Feel free to look around our python project directory to gain an
+                understanding of what we were trying to accomplish.</p>
             <h2>Fine-Tuning</h2>
             <p>Soon after getting our API Key working and being able to communicate with the ada
                 model in GPT-Turbo 3.5, we realized we still have much work to do in making our AI
@@ -144,6 +156,6 @@
                 There, you can find what we're working with and see a preview of our code and
                 more.</p>
         </div>
-        <img src="pics/bonfire.png" alt="dark souls bonfire"/>
+        <img src="pics/bonfire.png" alt="dark souls bonfire" />
     </body>
 </html>
