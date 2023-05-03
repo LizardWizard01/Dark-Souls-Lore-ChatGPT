@@ -26,7 +26,8 @@
                     <a href="examples.html">Examples</a>
                 </li>
                 <li>
-                    <a href="https://github.com/LizardWizard01/Dark-Souls-Lore-ChatGPT">GitHub Repo</a>
+                    <a href="https://github.com/LizardWizard01/Dark-Souls-Lore-ChatGPT">GitHub
+                        Repo</a>
                 </li>
             </ul>
         </nav>
@@ -41,12 +42,53 @@
                 found that we were able to be resourceful enough to find solutions or different ways
                 to proceed.</p>
             <!--from here, we'll document more of our bigger issues in detail-->
-            <p>At the start of the project, we didn't exactly know what we needed to do in order to produce our desired outcome. With the help of Dr. B, we came the the realization that we needed to create and train our own Python AI model. To do this we needed to find and study OpenAI's documentation on training a ChatGPT model using python. This documentation would be the almost all encompassing problem within this project due to the fact that we had to learn how to use it as we went. Our main source of help was Dr. B, but not even she knew how to implement the documentation all the time. Despite this, it was a very interesting learning experience for everyone involved.</p>
-            
-            <p>Our first real obstacle was creating our first model. With Dr. B's help we were able to use the OpenAI documentaion to create a model, but the probelm was using it. In order to use our python model we needed an API key. An API key is a string of characters that a user can generate in order to use a trained model. The probelm came with sharing an API key between us. When an API key is shared, the user is notified and the key becomes deactivated. This made it so we could not simply keep the API key within a file and share it between us. To solve this probelm we dug into the documentation and discovered that we could use a config file. The config file would store our API key and be included in our git ignore. Then we would reference to our config file at the top of our model which would read the key inside.</p>
-            
+            <p>At the start of the project, we didn't exactly know what we needed to do in order to
+                produce our desired outcome. With the help of Dr. B, we came the the realization
+                that we needed to create and train our own Python AI model. To do this we needed to
+                find and study OpenAI's documentation on training a ChatGPT model using python. This
+                documentation would be the almost all encompassing problem within this project due
+                to the fact that we had to learn how to use it as we went. Our main source of help
+                was Dr. B, but not even she knew how to implement the documentation all the time.
+                Despite this, it was a very interesting learning experience for everyone
+                involved.</p>
+            <p>Our first real obstacle was creating our first model. With Dr. B's help we were able
+                to use the OpenAI documentaion to create a model, but the probelm was using it. In
+                order to use our python model we needed an API key. An API key is a string of
+                characters that a user can generate in order to use a trained model. The probelm
+                came with sharing an API key between us. When an API key is shared, the user is
+                notified and the key becomes deactivated. This made it so we could not simply keep
+                the API key within a file and share it between us. To solve this probelm we dug into
+                the documentation and discovered that we could use a config file. The config file
+                would store our API key and be included in our git ignore. Then we would reference
+                to our config file at the top of our model which would read the key inside.</p>
             <p>Once we had a working model that was able to output something we had to train it. </p>
+            <p>One of the biggest problems we encountered was training a model. We realized that we
+                needed to make a fine-tuned model, which required a JSON file. We started to follow
+                the basis of the documentation, and tried to do a test within python to get our
+                fine-tuned model. This did not work, and we discovered that we needed to make an
+                altered version of the JSON file. We tried generating one with a website that turns
+                CSV files into JSON, and that did not work, as well as trying to write a few more
+                well-written lines. Eventually we got the idea to run RegEx over our data and put
+                the prompt completion lines over it. Now, we tried tor un this in python, but we got
+                an error again. Our JSON was actually correct, but we could no longer run our file
+                in python.</p>
+            <p>We discovered that there were some issues with our local devices and python reaching
+                for our API Keys that we couldn't figure out how to solve. These issues made no
+                sense, as our python had and always has pointed to the config file with our API Key.
+                We even tried generating new API Keys, but we could not get it to reach in and use
+                it. AS a result, we discovered we can manually reach into the API Key and the JSON
+                file to fine-tune in the CLI. We decided to go with this, because we could just
+                return to python later. This worked, and we were able to just fine-tune the model
+                here. It did take a while, as it would fail for unknown reasons and we would have to
+                resume the progress on it. Eventually it completed and all was good. We returned to
+                python to recall our fine-tuned model and discovered one final, project-changing
+                issue.</p>
+            <p>We discovered that we cannot actually train a chat-completion model. OpenAI only
+                allows for the training of a completion model, which is basically a less complex
+                version of a chat-completion model. The solution to this was to use the Open AI
+                playground to view our fine-tuned model, which was saved to our DIGIT PSB
+                organization through OpenAI. </p>
         </div>
-        <img src="pics/bonfire.png" alt="dark souls bonfire"/>
+        <img src="pics/bonfire.png" alt="dark souls bonfire" />
     </body>
 </html>
